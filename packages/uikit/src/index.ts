@@ -329,6 +329,9 @@ export { MenuIcon, MENU_ICON_ID } from './icons/MenuIcon';
 export { CloseIcon, CLOSE_ICON_ID } from './icons/CloseIcon';
 export { CalendarIcon } from './icons/CalendarIcon';
 export { ChevronDownIcon } from './icons/ChevronDownIcon';
+export { ChevronLeftIcon } from './icons/ChevronLeftIcon';
+export { ChevronRightIcon } from './icons/ChevronRightIcon';
+export { ChevronUpIcon } from './icons/ChevronUpIcon';
 
 // Theme system (utilities only - theme definitions in app)
 export { applyTheme } from './styles/applyTheme';
