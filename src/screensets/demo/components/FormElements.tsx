@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Checkbox, RadioGroup, RadioGroupItem, Switch, Select, SelectContent, SelectGroup, SelectItem, SelectLabel, SelectTrigger, SelectValue, Textarea } from '@hai3/uikit';
+import { Checkbox, RadioGroup, RadioGroupItem, Switch, Select, SelectContent, SelectGroup, SelectItem, SelectLabel, SelectTrigger, SelectValue, NativeSelect, NativeSelectOption, NativeSelectOptGroup, Textarea } from '@hai3/uikit';
 import { useTranslation, TextLoader } from '@hai3/uicore';
 import { DEMO_SCREENSET_ID } from "../ids";
 import { UI_KIT_ELEMENTS_SCREEN_ID } from "../ids";
@@ -304,6 +304,81 @@ export const FormElements: React.FC = () => {
               </SelectGroup>
             </SelectContent>
           </Select>
+        </div>
+      </div>
+
+      {/* Native Select Element Block */}
+      <div data-element-id="element-native-select" className="flex flex-col gap-4">
+        <TextLoader skeletonClassName="h-8 w-32">
+          <h2 className="text-2xl font-semibold">
+            {tk('native_select_heading')}
+          </h2>
+        </TextLoader>
+        <div className="flex flex-col gap-6 p-6 border border-border rounded-lg bg-background overflow-hidden">
+          {/* Default Native Select */}
+          <div className="flex flex-col gap-2">
+            <TextLoader skeletonClassName="h-4 w-24" inheritColor>
+              <label className="text-xs text-muted-foreground">
+                {tk('native_select_default_label')}
+              </label>
+            </TextLoader>
+            <NativeSelect>
+              <NativeSelectOption value="">{tk('native_select_placeholder')}</NativeSelectOption>
+              <NativeSelectOption value="low">{tk('native_select_priority_low')}</NativeSelectOption>
+              <NativeSelectOption value="medium">{tk('native_select_priority_medium')}</NativeSelectOption>
+              <NativeSelectOption value="high">{tk('native_select_priority_high')}</NativeSelectOption>
+              <NativeSelectOption value="critical">{tk('native_select_priority_critical')}</NativeSelectOption>
+            </NativeSelect>
+          </div>
+
+          {/* Native Select with Option Groups */}
+          <div className="flex flex-col gap-2">
+            <TextLoader skeletonClassName="h-4 w-32" inheritColor>
+              <label className="text-xs text-muted-foreground">
+                {tk('native_select_groups_label')}
+              </label>
+            </TextLoader>
+            <NativeSelect>
+              <NativeSelectOption value="">{tk('native_select_department_placeholder')}</NativeSelectOption>
+              <NativeSelectOptGroup label={tk('native_select_group_engineering')}>
+                <NativeSelectOption value="frontend">{tk('native_select_dept_frontend')}</NativeSelectOption>
+                <NativeSelectOption value="backend">{tk('native_select_dept_backend')}</NativeSelectOption>
+                <NativeSelectOption value="devops">{tk('native_select_dept_devops')}</NativeSelectOption>
+              </NativeSelectOptGroup>
+              <NativeSelectOptGroup label={tk('native_select_group_sales')}>
+                <NativeSelectOption value="sales-rep">{tk('native_select_dept_sales_rep')}</NativeSelectOption>
+                <NativeSelectOption value="account-manager">{tk('native_select_dept_account_manager')}</NativeSelectOption>
+              </NativeSelectOptGroup>
+            </NativeSelect>
+          </div>
+
+          {/* Disabled Native Select */}
+          <div className="flex flex-col gap-2">
+            <TextLoader skeletonClassName="h-4 w-24" inheritColor>
+              <label className="text-xs text-muted-foreground">
+                {tk('native_select_disabled_label')}
+              </label>
+            </TextLoader>
+            <NativeSelect disabled>
+              <NativeSelectOption value="">{tk('native_select_role_placeholder')}</NativeSelectOption>
+              <NativeSelectOption value="admin">{tk('native_select_role_admin')}</NativeSelectOption>
+              <NativeSelectOption value="editor">{tk('native_select_role_editor')}</NativeSelectOption>
+            </NativeSelect>
+          </div>
+
+          {/* Invalid Native Select */}
+          <div className="flex flex-col gap-2">
+            <TextLoader skeletonClassName="h-4 w-24" inheritColor>
+              <label className="text-xs text-muted-foreground">
+                {tk('native_select_invalid_label')}
+              </label>
+            </TextLoader>
+            <NativeSelect aria-invalid="true">
+              <NativeSelectOption value="">{tk('native_select_role_placeholder')}</NativeSelectOption>
+              <NativeSelectOption value="admin">{tk('native_select_role_admin')}</NativeSelectOption>
+              <NativeSelectOption value="editor">{tk('native_select_role_editor')}</NativeSelectOption>
+            </NativeSelect>
+          </div>
         </div>
       </div>
 

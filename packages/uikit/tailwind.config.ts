@@ -21,6 +21,10 @@ export default {
     // Data attribute + RTL combos for Switch
     'data-[state=checked]:ltr:translate-x-4',
     'data-[state=checked]:rtl:-translate-x-4',
+    // ARIA invalid state for form elements
+    'aria-[invalid=true]:ring-2',
+    'aria-[invalid=true]:ring-destructive/30',
+    'aria-[invalid=true]:border-destructive',
     // Layout utilities used by @hai3/uicore (Layout, Screen, Footer, etc.)
     'flex',
     'flex-col',

@@ -183,6 +183,7 @@ export const IMPLEMENTED_ELEMENTS = [
   'Hover Card',
   'Input',
   'Menubar',
+  'Native Select',
   'Navigation Menu',
   'Pagination',
   'Popover',

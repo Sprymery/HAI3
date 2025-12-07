@@ -12,6 +12,7 @@ export { ButtonVariant, ButtonSize } from '@hai3/uikit-contracts';
 export { Badge, badgeVariants, type BadgeProps } from './base/badge';
 export { Checkbox } from './base/checkbox';
 export { RadioGroup, RadioGroupItem } from './base/radio-group';
+export { NativeSelect, NativeSelectOption, NativeSelectOptGroup } from './base/native-select';
 export { Input } from './base/input';
 export { Textarea } from './base/textarea';
 export { Switch } from './base/switch';
