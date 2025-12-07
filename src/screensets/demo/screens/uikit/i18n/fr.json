@@ -479,5 +479,12 @@
   "input_otp_separator_label": "Avec séparateur",
   "input_otp_controlled_label": "Contrôlé",
   "input_otp_enter_code": "Entrez votre mot de passe à usage unique",
-  "input_otp_entered": "Vous avez entré"
+  "input_otp_entered": "Vous avez entré",
+  "calendar_heading": "Calendrier",
+  "calendar_timezone_label": "Date Sélectionnée (Avec Fuseau Horaire)",
+  "calendar_range_label": "Calendrier de Plage",
+  "calendar_month_year_label": "Sélecteur de Mois et Année",
+  "calendar_datetime_label": "Sélecteur de Date et Heure",
+  "calendar_selected": "Sélectionné",
+  "calendar_at": "à"
 }

@@ -479,5 +479,12 @@
   "input_otp_separator_label": "帶分隔符",
   "input_otp_controlled_label": "受控",
   "input_otp_enter_code": "請輸入一次性密碼",
-  "input_otp_entered": "您輸入了"
+  "input_otp_entered": "您輸入了",
+  "calendar_heading": "日曆",
+  "calendar_timezone_label": "選定日期（含時區）",
+  "calendar_range_label": "範圍日曆",
+  "calendar_month_year_label": "月份和年份選擇器",
+  "calendar_datetime_label": "日期和時間選擇器",
+  "calendar_selected": "已選擇",
+  "calendar_at": ""
 }

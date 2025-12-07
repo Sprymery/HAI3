@@ -475,5 +475,12 @@
   "input_otp_separator_label": "مع فاصل",
   "input_otp_controlled_label": "متحكم به",
   "input_otp_enter_code": "أدخل كلمة المرور لمرة واحدة",
-  "input_otp_entered": "لقد أدخلت"
+  "input_otp_entered": "لقد أدخلت",
+  "calendar_heading": "التقويم",
+  "calendar_timezone_label": "التاريخ المحدد (مع المنطقة الزمنية)",
+  "calendar_range_label": "تقويم النطاق",
+  "calendar_month_year_label": "محدد الشهر والسنة",
+  "calendar_datetime_label": "محدد التاريخ والوقت",
+  "calendar_selected": "محدد",
+  "calendar_at": "في"
 }

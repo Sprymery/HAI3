@@ -479,5 +479,12 @@
   "input_otp_separator_label": "Con separatore",
   "input_otp_controlled_label": "Controllato",
   "input_otp_enter_code": "Inserisci la tua password monouso",
-  "input_otp_entered": "Hai inserito"
+  "input_otp_entered": "Hai inserito",
+  "calendar_heading": "Calendario",
+  "calendar_timezone_label": "Data Selezionata (Con Fuso Orario)",
+  "calendar_range_label": "Calendario Intervallo",
+  "calendar_month_year_label": "Selettore Mese e Anno",
+  "calendar_datetime_label": "Selettore Data e Ora",
+  "calendar_selected": "Selezionato",
+  "calendar_at": "alle"
 }

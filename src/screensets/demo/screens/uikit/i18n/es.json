@@ -475,5 +475,12 @@
   "input_otp_separator_label": "Con separador",
   "input_otp_controlled_label": "Controlado",
   "input_otp_enter_code": "Ingrese su contraseña de un solo uso",
-  "input_otp_entered": "Ingresó"
+  "input_otp_entered": "Ingresó",
+  "calendar_heading": "Calendario",
+  "calendar_timezone_label": "Fecha Seleccionada (Con Zona Horaria)",
+  "calendar_range_label": "Calendario de Rango",
+  "calendar_month_year_label": "Selector de Mes y Año",
+  "calendar_datetime_label": "Selector de Fecha y Hora",
+  "calendar_selected": "Seleccionado",
+  "calendar_at": "a las"
 }

@@ -10,6 +10,7 @@ export { Button, type ButtonProps } from './base/button';
 // Re-export contract types to ensure consistency
 export { ButtonVariant, ButtonSize } from '@hai3/uikit-contracts';
 export { Badge, badgeVariants, type BadgeProps } from './base/badge';
+export { Calendar, CalendarDayButton } from './base/calendar';
 export { Checkbox } from './base/checkbox';
 export { RadioGroup, RadioGroupItem } from './base/radio-group';
 export { NativeSelect, NativeSelectOption, NativeSelectOptGroup } from './base/native-select';
@@ -326,6 +327,8 @@ export { ThreadList, type ThreadListProps, type ChatThread } from './composite/c
 // Icons (tree-shakeable - app imports and registers only what it needs)
 export { MenuIcon, MENU_ICON_ID } from './icons/MenuIcon';
 export { CloseIcon, CLOSE_ICON_ID } from './icons/CloseIcon';
+export { CalendarIcon } from './icons/CalendarIcon';
+export { ChevronDownIcon } from './icons/ChevronDownIcon';
 
 // Theme system (utilities only - theme definitions in app)
 export { applyTheme } from './styles/applyTheme';

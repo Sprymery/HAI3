@@ -479,5 +479,12 @@
   "input_otp_separator_label": "Ayırıcılı",
   "input_otp_controlled_label": "Kontrollü",
   "input_otp_enter_code": "Tek kullanımlık şifrenizi girin",
-  "input_otp_entered": "Girdiğiniz"
+  "input_otp_entered": "Girdiğiniz",
+  "calendar_heading": "Calendar",
+  "calendar_timezone_label": "Selected Date (With TimeZone)",
+  "calendar_range_label": "Range Calendar",
+  "calendar_month_year_label": "Month and Year Selector",
+  "calendar_datetime_label": "Date and Time Picker",
+  "calendar_selected": "Selected",
+  "calendar_at": "at"
 }

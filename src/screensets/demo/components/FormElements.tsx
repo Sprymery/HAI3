@@ -1,6 +1,9 @@
-import React, { useState } from 'react';
-import { Checkbox, RadioGroup, RadioGroupItem, Switch, Select, SelectContent, SelectGroup, SelectItem, SelectLabel, SelectTrigger, SelectValue, NativeSelect, NativeSelectOption, NativeSelectOptGroup, InputOTP, InputOTPGroup, InputOTPSlot, InputOTPSeparator, Textarea } from '@hai3/uikit';
+import React, { useState, useEffect } from 'react';
+import { Calendar, Checkbox, RadioGroup, RadioGroupItem, Switch, Select, SelectContent, SelectGroup, SelectItem, SelectLabel, SelectTrigger, SelectValue, NativeSelect, NativeSelectOption, NativeSelectOptGroup, InputOTP, InputOTPGroup, InputOTPSlot, InputOTPSeparator, Textarea, Input, Button, Popover, PopoverContent, PopoverTrigger, ChevronDownIcon } from '@hai3/uikit';
+import { ButtonVariant } from '@hai3/uikit-contracts';
 import { REGEXP_ONLY_DIGITS_AND_CHARS } from 'input-otp';
+import { format } from 'date-fns';
+import type { DateRange } from 'react-day-picker';
 import { useTranslation, TextLoader } from '@hai3/uicore';
 import { DEMO_SCREENSET_ID } from "../ids";
 import { UI_KIT_ELEMENTS_SCREEN_ID } from "../ids";
@@ -20,9 +23,158 @@ export const FormElements: React.FC = () => {
   
   const [airplaneMode, setAirplaneMode] = useState(false);
   const [otpValue, setOtpValue] = useState("");
+  
+  // Calendar state
+  const [selectedDate, setSelectedDate] = useState<Date | undefined>(undefined);
+  const [timeZone, setTimeZone] = useState<string | undefined>(undefined);
+  const [dateRange, setDateRange] = useState<DateRange | undefined>({
+    from: new Date(2025, 5, 12),
+    to: new Date(2025, 6, 15),
+  });
+  const [dropdownMode, setDropdownMode] = useState<React.ComponentProps<typeof Calendar>["captionLayout"]>("dropdown");
+  const [dropdownDate, setDropdownDate] = useState<Date | undefined>(new Date(2025, 5, 12));
+  const [dateTimeOpen, setDateTimeOpen] = useState(false);
+  const [dateTimeDate, setDateTimeDate] = useState<Date | undefined>(undefined);
+
+  // Get timezone on mount
+  useEffect(() => {
+    setTimeZone(Intl.DateTimeFormat().resolvedOptions().timeZone);
+  }, []);
 
   return (
     <>
+      {/* Calendar Element Block */}
+      <div data-element-id="element-calendar" className="flex flex-col gap-4">
+        <TextLoader skeletonClassName="h-8 w-28">
+          <h2 className="text-2xl font-semibold">
+            {tk('calendar_heading')}
+          </h2>
+        </TextLoader>
+        <div className="flex flex-col gap-8 p-6 border border-border rounded-lg bg-background overflow-hidden">
+          
+          {/* Selected Date with TimeZone */}
+          <div className="flex flex-col gap-2">
+            <TextLoader skeletonClassName="h-4 w-40" inheritColor>
+              <label className="text-xs text-muted-foreground">
+                {tk('calendar_timezone_label')}
+              </label>
+            </TextLoader>
+            <div className="flex flex-col gap-2">
+              <Calendar
+                mode="single"
+                selected={selectedDate}
+                onSelect={setSelectedDate}
+                timeZone={timeZone}
+                className="rounded-lg border shadow-sm"
+              />
+              {selectedDate && (
+                <p className="text-sm text-muted-foreground">
+                  {tk('calendar_selected')}: {format(selectedDate, "PPP")} ({timeZone})
+                </p>
+              )}
+            </div>
+          </div>
+
+          {/* Range Calendar */}
+          <div className="flex flex-col gap-2">
+            <TextLoader skeletonClassName="h-4 w-28" inheritColor>
+              <label className="text-xs text-muted-foreground">
+                {tk('calendar_range_label')}
+              </label>
+            </TextLoader>
+            <Calendar
+              mode="range"
+              defaultMonth={dateRange?.from}
+              selected={dateRange}
+              onSelect={setDateRange}
+              numberOfMonths={2}
+              className="rounded-lg border shadow-sm [--cell-size:--spacing(11)] md:[--cell-size:--spacing(12)]"
+            />
+          </div>
+
+          {/* Month and Year Selector */}
+          <div className="flex flex-col gap-2">
+            <TextLoader skeletonClassName="h-4 w-36" inheritColor>
+              <label className="text-xs text-muted-foreground">
+                {tk('calendar_month_year_label')}
+              </label>
+            </TextLoader>
+            <div className="flex flex-col gap-4 w-fit">
+              <Calendar
+                mode="single"
+                defaultMonth={dropdownDate}
+                selected={dropdownDate}
+                onSelect={setDropdownDate}
+                captionLayout={dropdownMode}
+                className="rounded-lg border shadow-sm"
+              />
+              <div className="flex flex-col gap-2">
+                <label className="text-xs text-muted-foreground px-1">Dropdown Mode</label>
+                <Select
+                  value={dropdownMode}
+                  onValueChange={(value) => setDropdownMode(value as React.ComponentProps<typeof Calendar>["captionLayout"])}
+                >
+                  <SelectTrigger className="w-full">
+                    <SelectValue placeholder="Dropdown" />
+                  </SelectTrigger>
+                  <SelectContent align="center">
+                    <SelectItem value="dropdown">Month and Year</SelectItem>
+                    <SelectItem value="dropdown-months">Month Only</SelectItem>
+                    <SelectItem value="dropdown-years">Year Only</SelectItem>
+                  </SelectContent>
+                </Select>
+              </div>
+            </div>
+          </div>
+
+          {/* Date and Time Picker */}
+          <div className="flex flex-col gap-2">
+            <TextLoader skeletonClassName="h-4 w-36" inheritColor>
+              <label className="text-xs text-muted-foreground">
+                {tk('calendar_datetime_label')}
+              </label>
+            </TextLoader>
+            <div className="flex gap-4 flex-wrap">
+              <div className="flex flex-col gap-2">
+                <label className="text-xs text-muted-foreground px-1">Date</label>
+                <Popover open={dateTimeOpen} onOpenChange={setDateTimeOpen}>
+                  <PopoverTrigger asChild>
+                    <Button
+                      variant={ButtonVariant.Outline}
+                      className="w-32 justify-between font-normal"
+                    >
+                      {dateTimeDate ? dateTimeDate.toLocaleDateString() : "Select date"}
+                      <ChevronDownIcon className="size-4" />
+                    </Button>
+                  </PopoverTrigger>
+                  <PopoverContent className="w-auto overflow-hidden p-0" align="start">
+                    <Calendar
+                      mode="single"
+                      selected={dateTimeDate}
+                      captionLayout="dropdown"
+                      onSelect={(date) => {
+                        setDateTimeDate(date);
+                        setDateTimeOpen(false);
+                      }}
+                    />
+                  </PopoverContent>
+                </Popover>
+              </div>
+              <div className="flex flex-col gap-2">
+                <label className="text-xs text-muted-foreground px-1">Time</label>
+                <Input
+                  type="time"
+                  step="1"
+                  defaultValue="10:30:00"
+                  className="bg-background w-32 appearance-none [&::-webkit-calendar-picker-indicator]:hidden [&::-webkit-calendar-picker-indicator]:appearance-none"
+                />
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
       {/* Checkbox Element Block */}
       <div data-element-id="element-checkbox" className="flex flex-col gap-4">
         <TextLoader skeletonClassName="h-8 w-28">

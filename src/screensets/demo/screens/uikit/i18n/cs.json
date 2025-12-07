@@ -479,5 +479,12 @@
   "input_otp_separator_label": "S oddělovačem",
   "input_otp_controlled_label": "Řízený",
   "input_otp_enter_code": "Zadejte jednorázové heslo",
-  "input_otp_entered": "Zadali jste"
+  "input_otp_entered": "Zadali jste",
+  "calendar_heading": "Calendar",
+  "calendar_timezone_label": "Selected Date (With TimeZone)",
+  "calendar_range_label": "Range Calendar",
+  "calendar_month_year_label": "Month and Year Selector",
+  "calendar_datetime_label": "Date and Time Picker",
+  "calendar_selected": "Selected",
+  "calendar_at": "at"
 }

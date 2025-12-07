@@ -479,5 +479,12 @@
   "input_otp_separator_label": "May Separator",
   "input_otp_controlled_label": "Kinokontrol",
   "input_otp_enter_code": "Ilagay ang iyong one-time password",
-  "input_otp_entered": "Inilagay mo"
+  "input_otp_entered": "Inilagay mo",
+  "calendar_heading": "Calendar",
+  "calendar_timezone_label": "Selected Date (With TimeZone)",
+  "calendar_range_label": "Range Calendar",
+  "calendar_month_year_label": "Month and Year Selector",
+  "calendar_datetime_label": "Date and Time Picker",
+  "calendar_selected": "Selected",
+  "calendar_at": "at"
 }

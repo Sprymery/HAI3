@@ -479,5 +479,12 @@
   "input_otp_separator_label": "С разделителем",
   "input_otp_controlled_label": "Управляемый",
   "input_otp_enter_code": "Введите одноразовый пароль",
-  "input_otp_entered": "Вы ввели"
+  "input_otp_entered": "Вы ввели",
+  "calendar_heading": "Календарь",
+  "calendar_timezone_label": "Выбранная дата (с часовым поясом)",
+  "calendar_range_label": "Календарь диапазона",
+  "calendar_month_year_label": "Выбор месяца и года",
+  "calendar_datetime_label": "Выбор даты и времени",
+  "calendar_selected": "Выбрано",
+  "calendar_at": "в"
 }

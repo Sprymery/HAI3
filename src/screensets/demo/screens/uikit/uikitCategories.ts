@@ -171,6 +171,7 @@ export const IMPLEMENTED_ELEMENTS = [
   'Badge',
   'Breadcrumb',
   'Button',
+  'Calendar',
   'Card',
   'Carousel',
   'Checkbox',
