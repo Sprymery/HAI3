@@ -1,11 +1,11 @@
 import React from 'react';
 
 /**
- * Chevron Down Icon
- * Used in native select dropdowns, accordion, navigation-menu, select
- * Replaces lucide-react ChevronDownIcon for tree-shaking
+ * Chevron Up Icon
+ * Used in select scroll buttons
+ * Replaces lucide-react ChevronUpIcon for tree-shaking
  */
-export const ChevronDownIcon: React.FC<React.SVGProps<SVGSVGElement>> = ({ 
+export const ChevronUpIcon: React.FC<React.SVGProps<SVGSVGElement>> = ({ 
   className = '',
   ...props 
 }) => {
@@ -22,7 +22,7 @@ export const ChevronDownIcon: React.FC<React.SVGProps<SVGSVGElement>> = ({
       strokeLinejoin="round"
       {...props}
     >
-      <path d="m6 9 6 6 6-6" />
+      <path d="m18 15-6-6-6 6" />
     </svg>
   );
 };

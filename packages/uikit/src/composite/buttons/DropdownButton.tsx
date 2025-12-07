@@ -1,6 +1,6 @@
 import React from 'react';
-import { ChevronDown } from 'lucide-react';
 import { Button } from '../../base/button';
+import { ChevronDownIcon } from '../../icons/ChevronDownIcon';
 import { ButtonVariant } from '@hai3/uikit-contracts';
 import { cn } from '../../lib/utils';
 
@@ -28,7 +28,7 @@ export const DropdownButton = React.forwardRef<
       {...props}
     >
       <span>{children}</span>
-      <ChevronDown className="h-4 w-4" />
+      <ChevronDownIcon className="h-4 w-4" />
     </Button>
   );
 });
