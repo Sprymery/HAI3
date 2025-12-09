@@ -449,7 +449,7 @@ export const FormElements: React.FC = () => {
             </TextLoader>
             <div className="grid w-full max-w-sm items-center gap-2">
               <Label htmlFor="email-default">{tk('input_email_label')}</Label>
-              <Input type="email" id="email-default" placeholder={tk('input_email_placeholder')} />
+              <Input type="email" id="email-default" />
             </div>
           </div>
 
@@ -464,7 +464,7 @@ export const FormElements: React.FC = () => {
               <Label htmlFor="name-required">
                 {tk('input_name_label')} <span className="text-destructive">*</span>
               </Label>
-              <Input type="text" id="name-required" placeholder={tk('input_name_placeholder')} required />
+              <Input type="text" id="name-required" required />
             </div>
           </div>
         </div>
