@@ -567,6 +567,7 @@
   "table_method_credit": "บัตรเครดิต",
   "table_method_paypal": "PayPal",
   "table_method_bank": "โอนเงิน",
+<<<<<<< HEAD
   "table_total": "รวม",
   "data_table_heading": "ตารางข้อมูล",
   "data_table_select_all": "เลือกทั้งหมด",
@@ -576,4 +577,7 @@
   "data_table_amount": "จำนวน",
   "data_table_filter_placeholder": "กรองอีเมล...",
   "data_table_no_results": "ไม่พบผลลัพธ์"
+=======
+  "table_total": "รวม"
+>>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 }

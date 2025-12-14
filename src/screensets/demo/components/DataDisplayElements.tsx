@@ -551,6 +551,7 @@ export const DataDisplayElements: React.FC = () => {
           </Table>
         </div>
       </div>
+<<<<<<< HEAD
 
       {/* Data Table Element Block */}
       <div data-element-id="element-data-table" className="flex flex-col gap-4">
@@ -563,6 +564,8 @@ export const DataDisplayElements: React.FC = () => {
           <PaymentsDataTable tk={tk} />
         </div>
       </div>
+=======
+>>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
     </>
   );
 };
