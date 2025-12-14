@@ -567,6 +567,7 @@
   "table_method_credit": "क्रेडिट कार्ड",
   "table_method_paypal": "PayPal",
   "table_method_bank": "बैंक ट्रांसफर",
+<<<<<<< HEAD
   "table_total": "कुल",
   "data_table_heading": "डेटा टेबल",
   "data_table_select_all": "सभी चुनें",
@@ -576,4 +577,7 @@
   "data_table_amount": "राशि",
   "data_table_filter_placeholder": "ईमेल फ़िल्टर...",
   "data_table_no_results": "कोई परिणाम नहीं।"
+=======
+  "table_total": "कुल"
+>>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 }

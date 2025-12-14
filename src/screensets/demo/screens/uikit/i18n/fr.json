@@ -567,6 +567,7 @@
   "table_method_credit": "Carte de Crédit",
   "table_method_paypal": "PayPal",
   "table_method_bank": "Virement",
+<<<<<<< HEAD
   "table_total": "Total",
   "data_table_heading": "Tableau de Données",
   "data_table_select_all": "Tout sélectionner",
@@ -576,4 +577,7 @@
   "data_table_amount": "Montant",
   "data_table_filter_placeholder": "Filtrer les e-mails...",
   "data_table_no_results": "Aucun résultat."
+=======
+  "table_total": "Total"
+>>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 }

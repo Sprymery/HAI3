@@ -567,6 +567,7 @@
   "table_method_credit": "クレジットカード",
   "table_method_paypal": "PayPal",
   "table_method_bank": "銀行振込",
+<<<<<<< HEAD
   "table_total": "合計",
   "data_table_heading": "データテーブル",
   "data_table_select_all": "すべて選択",
@@ -576,4 +577,7 @@
   "data_table_amount": "金額",
   "data_table_filter_placeholder": "メールをフィルター...",
   "data_table_no_results": "結果がありません。"
+=======
+  "table_total": "合計"
+>>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 }

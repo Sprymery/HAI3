@@ -2036,6 +2036,7 @@ When viewing the table
 Then it should display columns for Invoice number, Status, Method, and Amount
 And multiple invoice rows with varied data
 And a footer row showing the total amount
+<<<<<<< HEAD
 
 ### Requirement: DataTable Component
 
@@ -2152,3 +2153,5 @@ When viewing the table
 Then it should display columns for Select, Status, Email, and Amount
 And show payment data with varied statuses (pending, processing, success, failed)
 And provide pagination controls below the table
+=======
+>>>>>>> 8d900bf (feat(ui): implement table base ui kit element)

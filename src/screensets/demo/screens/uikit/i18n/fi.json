@@ -567,6 +567,7 @@
   "table_method_credit": "Luottokortti",
   "table_method_paypal": "PayPal",
   "table_method_bank": "Tilisiirto",
+<<<<<<< HEAD
   "table_total": "Yhteensä",
   "data_table_heading": "Tietotaulukko",
   "data_table_select_all": "Valitse kaikki",
@@ -576,4 +577,7 @@
   "data_table_amount": "Summa",
   "data_table_filter_placeholder": "Suodata sähköpostit...",
   "data_table_no_results": "Ei tuloksia."
+=======
+  "table_total": "Yhteensä"
+>>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 }

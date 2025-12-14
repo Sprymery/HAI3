@@ -51,6 +51,7 @@ export {
   TableCell,
   TableCaption,
 } from './base/table';
+<<<<<<< HEAD
 export {
   DataTable,
   DataTablePagination,
@@ -74,6 +75,8 @@ export {
   getSortedRowModel,
   useReactTable,
 } from './base/data-table';
+=======
+>>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 export { Skeleton } from './base/skeleton';
 export { Spinner, type SpinnerProps } from './base/spinner';
 export { Slider, SliderTrack, SliderRange, SliderThumb } from './base/slider';

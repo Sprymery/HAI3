@@ -567,6 +567,7 @@
   "table_method_credit": "Card de credit",
   "table_method_paypal": "PayPal",
   "table_method_bank": "Transfer",
+<<<<<<< HEAD
   "table_total": "Total",
   "data_table_heading": "Tabel de Date",
   "data_table_select_all": "Selectează tot",
@@ -576,4 +577,7 @@
   "data_table_amount": "Sumă",
   "data_table_filter_placeholder": "Filtrează e-mailuri...",
   "data_table_no_results": "Niciun rezultat."
+=======
+  "table_total": "Total"
+>>>>>>> 8d900bf (feat(ui): implement table base ui kit element)
 }
