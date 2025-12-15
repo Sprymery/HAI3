@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "Slett konto",
   "alert_dialog_delete_title": "Slette konto?",
   "alert_dialog_delete_description": "Dette vil permanent slette kontoen din og alle tilknyttede data. Denne handlingen kan ikke angres.",
-  "alert_dialog_delete_action": "Slett"
+  "alert_dialog_delete_action": "Slett",
+  "empty_heading": "Tom",
+  "empty_outline_title": "Skylagring er tom",
+  "empty_outline_description": "Last opp filer til skylagringen din for tilgang fra hvor som helst.",
+  "empty_outline_action": "Last opp filer",
+  "empty_muted_title": "Ingen varsler",
+  "empty_muted_description": "Du er oppdatert. Nye varsler vises her.",
+  "empty_muted_action": "Oppdater",
+  "empty_avatar_title": "Bruker frakoblet",
+  "empty_avatar_description": "Denne brukeren er frakoblet. Du kan legge igjen en melding eller prøve igjen senere.",
+  "empty_avatar_action": "Legg igjen melding"
 }

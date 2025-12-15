@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "खाता हटाएं",
   "alert_dialog_delete_title": "खाता हटाएं?",
   "alert_dialog_delete_description": "यह आपके खाते और सभी संबंधित डेटा को स्थायी रूप से हटा देगा। इस क्रिया को वापस नहीं किया जा सकता।",
-  "alert_dialog_delete_action": "हटाएं"
+  "alert_dialog_delete_action": "हटाएं",
+  "empty_heading": "खाली",
+  "empty_outline_title": "क्लाउड स्टोरेज खाली है",
+  "empty_outline_description": "कहीं से भी एक्सेस करने के लिए अपने क्लाउड स्टोरेज में फ़ाइलें अपलोड करें।",
+  "empty_outline_action": "फ़ाइलें अपलोड करें",
+  "empty_muted_title": "कोई सूचना नहीं",
+  "empty_muted_description": "आप अपडेट हैं। नई सूचनाएं यहां दिखाई देंगी।",
+  "empty_muted_action": "रिफ्रेश",
+  "empty_avatar_title": "उपयोगकर्ता ऑफ़लाइन",
+  "empty_avatar_description": "यह उपयोगकर्ता वर्तमान में ऑफ़लाइन है। आप संदेश छोड़ सकते हैं या बाद में पुनः प्रयास कर सकते हैं।",
+  "empty_avatar_action": "संदेश छोड़ें"
 }

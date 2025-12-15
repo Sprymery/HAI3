@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "Șterge contul",
   "alert_dialog_delete_title": "Ștergeți contul?",
   "alert_dialog_delete_description": "Aceasta va șterge permanent contul dumneavoastră și toate datele asociate. Această acțiune nu poate fi inversată.",
-  "alert_dialog_delete_action": "Șterge"
+  "alert_dialog_delete_action": "Șterge",
+  "empty_heading": "Gol",
+  "empty_outline_title": "Spațiul cloud este gol",
+  "empty_outline_description": "Încărcați fișiere în spațiul cloud pentru a le accesa de oriunde.",
+  "empty_outline_action": "Încărcați fișiere",
+  "empty_muted_title": "Fără notificări",
+  "empty_muted_description": "Sunteți la zi. Notificările noi vor apărea aici.",
+  "empty_muted_action": "Reîmprospătare",
+  "empty_avatar_title": "Utilizator offline",
+  "empty_avatar_description": "Acest utilizator este offline. Puteți lăsa un mesaj sau încerca mai târziu.",
+  "empty_avatar_action": "Lăsați mesaj"
 }

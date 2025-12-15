@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "Padam Akaun",
   "alert_dialog_delete_title": "Padam Akaun?",
   "alert_dialog_delete_description": "Ini akan memadamkan akaun anda dan semua data berkaitan secara kekal. Tindakan ini tidak boleh diterbalikkan.",
-  "alert_dialog_delete_action": "Padam"
+  "alert_dialog_delete_action": "Padam",
+  "empty_heading": "Kosong",
+  "empty_outline_title": "Storan awan kosong",
+  "empty_outline_description": "Muat naik fail ke storan awan anda untuk mengaksesnya dari mana-mana.",
+  "empty_outline_action": "Muat Naik Fail",
+  "empty_muted_title": "Tiada pemberitahuan",
+  "empty_muted_description": "Anda sudah terkini. Pemberitahuan baharu akan muncul di sini.",
+  "empty_muted_action": "Muat Semula",
+  "empty_avatar_title": "Pengguna luar talian",
+  "empty_avatar_description": "Pengguna ini sedang luar talian. Anda boleh tinggalkan mesej atau cuba lagi kemudian.",
+  "empty_avatar_action": "Tinggalkan Mesej"
 }

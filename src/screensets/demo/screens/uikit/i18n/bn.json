@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "অ্যাকাউন্ট মুছুন",
   "alert_dialog_delete_title": "অ্যাকাউন্ট মুছবেন?",
   "alert_dialog_delete_description": "এটি স্থায়ীভাবে আপনার অ্যাকাউন্ট এবং সমস্ত সম্পর্কিত ডেটা মুছে দেবে। এই ক্রিয়াটি বিপরীত করা যাবে না।",
-  "alert_dialog_delete_action": "মুছুন"
+  "alert_dialog_delete_action": "মুছুন",
+  "empty_heading": "খালি",
+  "empty_outline_title": "ক্লাউড স্টোরেজ খালি",
+  "empty_outline_description": "যেকোনো জায়গা থেকে অ্যাক্সেস করতে আপনার ক্লাউড স্টোরেজে ফাইল আপলোড করুন।",
+  "empty_outline_action": "ফাইল আপলোড করুন",
+  "empty_muted_title": "কোন বিজ্ঞপ্তি নেই",
+  "empty_muted_description": "আপনি আপডেট আছেন। নতুন বিজ্ঞপ্তি এখানে দেখা যাবে।",
+  "empty_muted_action": "রিফ্রেশ",
+  "empty_avatar_title": "ব্যবহারকারী অফলাইন",
+  "empty_avatar_description": "এই ব্যবহারকারী বর্তমানে অফলাইন। আপনি বার্তা রাখতে পারেন বা পরে আবার চেষ্টা করতে পারেন।",
+  "empty_avatar_action": "বার্তা রাখুন"
 }

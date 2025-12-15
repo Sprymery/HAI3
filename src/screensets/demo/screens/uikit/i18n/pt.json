@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "Excluir conta",
   "alert_dialog_delete_title": "Excluir conta?",
   "alert_dialog_delete_description": "Isso excluirá permanentemente sua conta e todos os dados associados. Esta ação não pode ser revertida.",
-  "alert_dialog_delete_action": "Excluir"
+  "alert_dialog_delete_action": "Excluir",
+  "empty_heading": "Vazio",
+  "empty_outline_title": "Armazenamento em nuvem vazio",
+  "empty_outline_description": "Carregue arquivos para seu armazenamento em nuvem para acessá-los de qualquer lugar.",
+  "empty_outline_action": "Carregar arquivos",
+  "empty_muted_title": "Sem notificações",
+  "empty_muted_description": "Você está em dia. Novas notificações aparecerão aqui.",
+  "empty_muted_action": "Atualizar",
+  "empty_avatar_title": "Usuário offline",
+  "empty_avatar_description": "Este usuário está offline. Você pode deixar uma mensagem ou tentar novamente mais tarde.",
+  "empty_avatar_action": "Deixar mensagem"
 }

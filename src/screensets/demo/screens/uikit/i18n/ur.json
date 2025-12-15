@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "اکاؤنٹ حذف کریں",
   "alert_dialog_delete_title": "اکاؤنٹ حذف کریں؟",
   "alert_dialog_delete_description": "یہ آپ کے اکاؤنٹ اور تمام متعلقہ ڈیٹا کو مستقل طور پر حذف کر دے گا۔ اس عمل کو واپس نہیں کیا جا سکتا۔",
-  "alert_dialog_delete_action": "حذف کریں"
+  "alert_dialog_delete_action": "حذف کریں",
+  "empty_heading": "خالی",
+  "empty_outline_title": "کلاؤڈ اسٹوریج خالی ہے",
+  "empty_outline_description": "کہیں سے بھی رسائی کے لیے اپنے کلاؤڈ اسٹوریج میں فائلیں اپ لوڈ کریں۔",
+  "empty_outline_action": "فائلیں اپ لوڈ کریں",
+  "empty_muted_title": "کوئی اطلاعات نہیں",
+  "empty_muted_description": "آپ اپ ٹو ڈیٹ ہیں۔ نئی اطلاعات یہاں ظاہر ہوں گی۔",
+  "empty_muted_action": "ریفریش",
+  "empty_avatar_title": "صارف آف لائن",
+  "empty_avatar_description": "یہ صارف فی الحال آف لائن ہے۔ آپ پیغام چھوڑ سکتے ہیں یا بعد میں دوبارہ کوشش کر سکتے ہیں۔",
+  "empty_avatar_action": "پیغام چھوڑیں"
 }

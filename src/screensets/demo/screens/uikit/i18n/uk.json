@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "Видалити обліковий запис",
   "alert_dialog_delete_title": "Видалити обліковий запис?",
   "alert_dialog_delete_description": "Ваш обліковий запис та всі пов'язані дані будуть видалені назавжди. Цю дію неможливо скасувати.",
-  "alert_dialog_delete_action": "Видалити"
+  "alert_dialog_delete_action": "Видалити",
+  "empty_heading": "Порожньо",
+  "empty_outline_title": "Хмарне сховище порожнє",
+  "empty_outline_description": "Завантажте файли до хмарного сховища для доступу з будь-якого місця.",
+  "empty_outline_action": "Завантажити файли",
+  "empty_muted_title": "Немає сповіщень",
+  "empty_muted_description": "Ви все переглянули. Нові сповіщення з'являться тут.",
+  "empty_muted_action": "Оновити",
+  "empty_avatar_title": "Користувач офлайн",
+  "empty_avatar_description": "Цей користувач зараз офлайн. Ви можете залишити повідомлення або спробувати пізніше.",
+  "empty_avatar_action": "Залишити повідомлення"
 }

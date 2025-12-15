@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "Radera konto",
   "alert_dialog_delete_title": "Radera konto?",
   "alert_dialog_delete_description": "Detta kommer permanent radera ditt konto och all associerad data. Denna åtgärd kan inte ångras.",
-  "alert_dialog_delete_action": "Radera"
+  "alert_dialog_delete_action": "Radera",
+  "empty_heading": "Tom",
+  "empty_outline_title": "Molnlagring är tom",
+  "empty_outline_description": "Ladda upp filer till din molnlagring för att komma åt dem var som helst.",
+  "empty_outline_action": "Ladda upp filer",
+  "empty_muted_title": "Inga aviseringar",
+  "empty_muted_description": "Du är uppdaterad. Nya aviseringar visas här.",
+  "empty_muted_action": "Uppdatera",
+  "empty_avatar_title": "Användare offline",
+  "empty_avatar_description": "Denna användare är offline. Du kan lämna ett meddelande eller försöka igen senare.",
+  "empty_avatar_action": "Lämna meddelande"
 }

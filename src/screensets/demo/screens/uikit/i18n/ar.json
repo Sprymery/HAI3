@@ -590,5 +590,15 @@
   "alert_dialog_delete_trigger": "حذف الحساب",
   "alert_dialog_delete_title": "حذف الحساب؟",
   "alert_dialog_delete_description": "سيؤدي هذا إلى حذف حسابك وجميع البيانات المرتبطة نهائياً. لا يمكن التراجع عن هذا الإجراء.",
-  "alert_dialog_delete_action": "حذف"
+  "alert_dialog_delete_action": "حذف",
+  "empty_heading": "فارغ",
+  "empty_outline_title": "التخزين السحابي فارغ",
+  "empty_outline_description": "قم بتحميل الملفات إلى التخزين السحابي للوصول إليها من أي مكان.",
+  "empty_outline_action": "تحميل الملفات",
+  "empty_muted_title": "لا توجد إشعارات",
+  "empty_muted_description": "أنت على اطلاع بكل شيء. ستظهر الإشعارات الجديدة هنا.",
+  "empty_muted_action": "تحديث",
+  "empty_avatar_title": "المستخدم غير متصل",
+  "empty_avatar_description": "هذا المستخدم غير متصل حاليًا. يمكنك ترك رسالة أو المحاولة لاحقًا.",
+  "empty_avatar_action": "ترك رسالة"
 }

@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "Account verwijderen",
   "alert_dialog_delete_title": "Account verwijderen?",
   "alert_dialog_delete_description": "Dit zal uw account en alle bijbehorende gegevens permanent verwijderen. Deze actie kan niet ongedaan worden gemaakt.",
-  "alert_dialog_delete_action": "Verwijderen"
+  "alert_dialog_delete_action": "Verwijderen",
+  "empty_heading": "Leeg",
+  "empty_outline_title": "Cloudopslag leeg",
+  "empty_outline_description": "Upload bestanden naar je cloudopslag om ze overal te kunnen openen.",
+  "empty_outline_action": "Bestanden uploaden",
+  "empty_muted_title": "Geen meldingen",
+  "empty_muted_description": "Je bent helemaal bij. Nieuwe meldingen verschijnen hier.",
+  "empty_muted_action": "Vernieuwen",
+  "empty_avatar_title": "Gebruiker offline",
+  "empty_avatar_description": "Deze gebruiker is momenteel offline. Je kunt een bericht achterlaten of later opnieuw proberen.",
+  "empty_avatar_action": "Bericht achterlaten"
 }

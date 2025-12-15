@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "מחק חשבון",
   "alert_dialog_delete_title": "למחוק חשבון?",
   "alert_dialog_delete_description": "פעולה זו תמחק לצמיתות את החשבון שלך ואת כל הנתונים הקשורים. לא ניתן לבטל פעולה זו.",
-  "alert_dialog_delete_action": "מחק"
+  "alert_dialog_delete_action": "מחק",
+  "empty_heading": "ריק",
+  "empty_outline_title": "אחסון הענן ריק",
+  "empty_outline_description": "העלה קבצים לאחסון הענן שלך כדי לגשת אליהם מכל מקום.",
+  "empty_outline_action": "העלאת קבצים",
+  "empty_muted_title": "אין התראות",
+  "empty_muted_description": "אתה מעודכן. התראות חדשות יופיעו כאן.",
+  "empty_muted_action": "רענון",
+  "empty_avatar_title": "משתמש לא מקוון",
+  "empty_avatar_description": "משתמש זה אינו מקוון כרגע. אתה יכול להשאיר הודעה או לנסות שוב מאוחר יותר.",
+  "empty_avatar_action": "השאר הודעה"
 }

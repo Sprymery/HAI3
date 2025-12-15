@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "删除帐户",
   "alert_dialog_delete_title": "删除帐户？",
   "alert_dialog_delete_description": "这将永久删除您的帐户和所有相关数据。此操作无法撤消。",
-  "alert_dialog_delete_action": "删除"
+  "alert_dialog_delete_action": "删除",
+  "empty_heading": "空",
+  "empty_outline_title": "云存储为空",
+  "empty_outline_description": "将文件上传到云存储，随时随地访问。",
+  "empty_outline_action": "上传文件",
+  "empty_muted_title": "暂无通知",
+  "empty_muted_description": "您已查看所有内容。新通知将显示在这里。",
+  "empty_muted_action": "刷新",
+  "empty_avatar_title": "用户离线",
+  "empty_avatar_description": "该用户当前离线。您可以留言或稍后重试。",
+  "empty_avatar_action": "留言"
 }

@@ -185,6 +185,7 @@ export const IMPLEMENTED_ELEMENTS = [
   'Dialog',
   'Drawer',
   'Dropdown Menu',
+  'Empty',
   'Hover Card',
   'Input',
   'Input Group',

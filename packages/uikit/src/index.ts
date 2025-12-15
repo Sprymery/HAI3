@@ -6,6 +6,15 @@
 // Base UI Components (shadcn + HAI3 custom)
 export { Alert, AlertTitle, AlertDescription, alertVariants } from './base/alert';
 export { AspectRatio } from './base/aspect-ratio';
+export {
+  Empty,
+  EmptyHeader,
+  EmptyMedia,
+  EmptyTitle,
+  EmptyDescription,
+  EmptyContent,
+  emptyMediaVariants,
+} from './base/empty';
 export { Avatar, AvatarImage, AvatarFallback } from './base/avatar';
 export { Button, type ButtonProps } from './base/button';
 // Re-export contract types to ensure consistency

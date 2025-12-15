@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "Hapus Akun",
   "alert_dialog_delete_title": "Hapus Akun?",
   "alert_dialog_delete_description": "Ini akan menghapus akun Anda dan semua data terkait secara permanen. Tindakan ini tidak dapat dibatalkan.",
-  "alert_dialog_delete_action": "Hapus"
+  "alert_dialog_delete_action": "Hapus",
+  "empty_heading": "Kosong",
+  "empty_outline_title": "Penyimpanan cloud kosong",
+  "empty_outline_description": "Unggah file ke penyimpanan cloud Anda untuk mengaksesnya dari mana saja.",
+  "empty_outline_action": "Unggah File",
+  "empty_muted_title": "Tidak ada notifikasi",
+  "empty_muted_description": "Anda sudah terkini. Notifikasi baru akan muncul di sini.",
+  "empty_muted_action": "Segarkan",
+  "empty_avatar_title": "Pengguna offline",
+  "empty_avatar_description": "Pengguna ini sedang offline. Anda dapat meninggalkan pesan atau coba lagi nanti.",
+  "empty_avatar_action": "Tinggalkan Pesan"
 }

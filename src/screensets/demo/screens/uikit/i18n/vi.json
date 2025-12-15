@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "Xóa tài khoản",
   "alert_dialog_delete_title": "Xóa tài khoản?",
   "alert_dialog_delete_description": "Điều này sẽ xóa vĩnh viễn tài khoản của bạn và tất cả dữ liệu liên quan. Hành động này không thể đảo ngược.",
-  "alert_dialog_delete_action": "Xóa"
+  "alert_dialog_delete_action": "Xóa",
+  "empty_heading": "Trống",
+  "empty_outline_title": "Bộ nhớ đám mây trống",
+  "empty_outline_description": "Tải tệp lên bộ nhớ đám mây để truy cập từ bất cứ đâu.",
+  "empty_outline_action": "Tải tệp lên",
+  "empty_muted_title": "Không có thông báo",
+  "empty_muted_description": "Bạn đã cập nhật. Thông báo mới sẽ xuất hiện ở đây.",
+  "empty_muted_action": "Làm mới",
+  "empty_avatar_title": "Người dùng ngoại tuyến",
+  "empty_avatar_description": "Người dùng này đang ngoại tuyến. Bạn có thể để lại tin nhắn hoặc thử lại sau.",
+  "empty_avatar_action": "Để lại tin nhắn"
 }

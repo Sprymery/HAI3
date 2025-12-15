@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "Slet konto",
   "alert_dialog_delete_title": "Slet konto?",
   "alert_dialog_delete_description": "Dette vil permanent slette din konto og alle tilknyttede data. Denne handling kan ikke fortrydes.",
-  "alert_dialog_delete_action": "Slet"
+  "alert_dialog_delete_action": "Slet",
+  "empty_heading": "Tom",
+  "empty_outline_title": "Skylagring er tom",
+  "empty_outline_description": "Upload filer til dit skylager for at få adgang fra hvor som helst.",
+  "empty_outline_action": "Upload filer",
+  "empty_muted_title": "Ingen notifikationer",
+  "empty_muted_description": "Du er opdateret. Nye notifikationer vises her.",
+  "empty_muted_action": "Opdater",
+  "empty_avatar_title": "Bruger offline",
+  "empty_avatar_description": "Denne bruger er offline. Du kan efterlade en besked eller prøve igen senere.",
+  "empty_avatar_action": "Efterlad besked"
 }

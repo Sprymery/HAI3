@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "Fiók törlése",
   "alert_dialog_delete_title": "Fiók törlése?",
   "alert_dialog_delete_description": "Ez véglegesen törli a fiókját és az összes kapcsolódó adatot. Ez a művelet nem visszavonható.",
-  "alert_dialog_delete_action": "Törlés"
+  "alert_dialog_delete_action": "Törlés",
+  "empty_heading": "Üres",
+  "empty_outline_title": "A felhőtároló üres",
+  "empty_outline_description": "Töltsön fel fájlokat a felhőtárolóba, hogy bárhonnan elérhesse őket.",
+  "empty_outline_action": "Fájlok feltöltése",
+  "empty_muted_title": "Nincs értesítés",
+  "empty_muted_description": "Minden naprakész. Az új értesítések itt jelennek meg.",
+  "empty_muted_action": "Frissítés",
+  "empty_avatar_title": "Felhasználó offline",
+  "empty_avatar_description": "Ez a felhasználó jelenleg offline. Hagyhat üzenetet vagy próbálja újra később.",
+  "empty_avatar_action": "Üzenet hagyása"
 }

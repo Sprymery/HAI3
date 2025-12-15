@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "Usuń konto",
   "alert_dialog_delete_title": "Usunąć konto?",
   "alert_dialog_delete_description": "Spowoduje to trwałe usunięcie Twojego konta i wszystkich powiązanych danych. Tej akcji nie można cofnąć.",
-  "alert_dialog_delete_action": "Usuń"
+  "alert_dialog_delete_action": "Usuń",
+  "empty_heading": "Pusto",
+  "empty_outline_title": "Chmura jest pusta",
+  "empty_outline_description": "Prześlij pliki do chmury, aby mieć do nich dostęp z dowolnego miejsca.",
+  "empty_outline_action": "Prześlij pliki",
+  "empty_muted_title": "Brak powiadomień",
+  "empty_muted_description": "Jesteś na bieżąco. Nowe powiadomienia pojawią się tutaj.",
+  "empty_muted_action": "Odśwież",
+  "empty_avatar_title": "Użytkownik offline",
+  "empty_avatar_description": "Ten użytkownik jest obecnie offline. Możesz zostawić wiadomość lub spróbować później.",
+  "empty_avatar_action": "Zostaw wiadomość"
 }

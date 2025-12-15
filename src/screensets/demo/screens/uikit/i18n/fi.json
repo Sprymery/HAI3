@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "Poista tili",
   "alert_dialog_delete_title": "Poista tili?",
   "alert_dialog_delete_description": "Tämä poistaa pysyvästi tilisi ja kaikki siihen liittyvät tiedot. Tätä toimintoa ei voi peruuttaa.",
-  "alert_dialog_delete_action": "Poista"
+  "alert_dialog_delete_action": "Poista",
+  "empty_heading": "Tyhjä",
+  "empty_outline_title": "Pilvitallennustila on tyhjä",
+  "empty_outline_description": "Lataa tiedostoja pilvitallennustilaan käyttääksesi niitä mistä tahansa.",
+  "empty_outline_action": "Lataa tiedostoja",
+  "empty_muted_title": "Ei ilmoituksia",
+  "empty_muted_description": "Olet ajan tasalla. Uudet ilmoitukset näkyvät täällä.",
+  "empty_muted_action": "Päivitä",
+  "empty_avatar_title": "Käyttäjä offline",
+  "empty_avatar_description": "Tämä käyttäjä on offline. Voit jättää viestin tai yrittää myöhemmin uudelleen.",
+  "empty_avatar_action": "Jätä viesti"
 }

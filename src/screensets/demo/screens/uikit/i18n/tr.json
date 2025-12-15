@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "Hesabı Sil",
   "alert_dialog_delete_title": "Hesap Silinsin mi?",
   "alert_dialog_delete_description": "Hesabınız ve tüm ilişkili veriler kalıcı olarak silinecektir. Bu işlem geri alınamaz.",
-  "alert_dialog_delete_action": "Sil"
+  "alert_dialog_delete_action": "Sil",
+  "empty_heading": "Boş",
+  "empty_outline_title": "Bulut depolama boş",
+  "empty_outline_description": "Her yerden erişmek için dosyalarınızı bulut depolamaya yükleyin.",
+  "empty_outline_action": "Dosya Yükle",
+  "empty_muted_title": "Bildirim yok",
+  "empty_muted_description": "Her şeyi gördünüz. Yeni bildirimler burada görünecek.",
+  "empty_muted_action": "Yenile",
+  "empty_avatar_title": "Kullanıcı çevrimdışı",
+  "empty_avatar_description": "Bu kullanıcı şu anda çevrimdışı. Mesaj bırakabilir veya daha sonra tekrar deneyebilirsiniz.",
+  "empty_avatar_action": "Mesaj Bırak"
 }

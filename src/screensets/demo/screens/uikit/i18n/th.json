@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "ลบบัญชี",
   "alert_dialog_delete_title": "ลบบัญชี?",
   "alert_dialog_delete_description": "การดำเนินการนี้จะลบบัญชีของคุณและข้อมูลที่เกี่ยวข้องทั้งหมดอย่างถาวร ไม่สามารถยกเลิกได้",
-  "alert_dialog_delete_action": "ลบ"
+  "alert_dialog_delete_action": "ลบ",
+  "empty_heading": "ว่างเปล่า",
+  "empty_outline_title": "พื้นที่เก็บข้อมูลคลาวด์ว่างเปล่า",
+  "empty_outline_description": "อัปโหลดไฟล์ไปยังพื้นที่เก็บข้อมูลคลาวด์เพื่อเข้าถึงได้จากทุกที่",
+  "empty_outline_action": "อัปโหลดไฟล์",
+  "empty_muted_title": "ไม่มีการแจ้งเตือน",
+  "empty_muted_description": "คุณอัปเดตแล้ว การแจ้งเตือนใหม่จะปรากฏที่นี่",
+  "empty_muted_action": "รีเฟรช",
+  "empty_avatar_title": "ผู้ใช้ออฟไลน์",
+  "empty_avatar_description": "ผู้ใช้นี้ออฟไลน์อยู่ คุณสามารถฝากข้อความหรือลองใหม่ภายหลัง",
+  "empty_avatar_action": "ฝากข้อความ"
 }

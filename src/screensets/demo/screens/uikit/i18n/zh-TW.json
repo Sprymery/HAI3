@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "刪除帳戶",
   "alert_dialog_delete_title": "刪除帳戶？",
   "alert_dialog_delete_description": "這將永久刪除您的帳戶和所有相關資料。此操作無法撤銷。",
-  "alert_dialog_delete_action": "刪除"
+  "alert_dialog_delete_action": "刪除",
+  "empty_heading": "空",
+  "empty_outline_title": "雲端儲存空間為空",
+  "empty_outline_description": "將檔案上傳到雲端儲存空間，隨時隨地存取。",
+  "empty_outline_action": "上傳檔案",
+  "empty_muted_title": "沒有通知",
+  "empty_muted_description": "您已查看所有內容。新通知將顯示在這裡。",
+  "empty_muted_action": "重新整理",
+  "empty_avatar_title": "使用者離線",
+  "empty_avatar_description": "此使用者目前離線。您可以留言或稍後再試。",
+  "empty_avatar_action": "留言"
 }

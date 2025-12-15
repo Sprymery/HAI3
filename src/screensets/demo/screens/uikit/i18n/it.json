@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "Elimina account",
   "alert_dialog_delete_title": "Eliminare account?",
   "alert_dialog_delete_description": "Questo eliminerà permanentemente il tuo account e tutti i dati associati. Questa azione non può essere annullata.",
-  "alert_dialog_delete_action": "Elimina"
+  "alert_dialog_delete_action": "Elimina",
+  "empty_heading": "Vuoto",
+  "empty_outline_title": "Archiviazione cloud vuota",
+  "empty_outline_description": "Carica file nel tuo cloud storage per accedervi ovunque.",
+  "empty_outline_action": "Carica file",
+  "empty_muted_title": "Nessuna notifica",
+  "empty_muted_description": "Sei aggiornato. Le nuove notifiche appariranno qui.",
+  "empty_muted_action": "Aggiorna",
+  "empty_avatar_title": "Utente offline",
+  "empty_avatar_description": "Questo utente è attualmente offline. Puoi lasciare un messaggio o riprovare più tardi.",
+  "empty_avatar_action": "Lascia messaggio"
 }

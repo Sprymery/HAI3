@@ -590,5 +590,15 @@
   "alert_dialog_delete_trigger": "Eliminar cuenta",
   "alert_dialog_delete_title": "¿Eliminar cuenta?",
   "alert_dialog_delete_description": "Esto eliminará permanentemente su cuenta y todos los datos asociados. Esta acción no se puede revertir.",
-  "alert_dialog_delete_action": "Eliminar"
+  "alert_dialog_delete_action": "Eliminar",
+  "empty_heading": "Vacío",
+  "empty_outline_title": "Almacenamiento en la nube vacío",
+  "empty_outline_description": "Sube archivos a tu almacenamiento en la nube para acceder desde cualquier lugar.",
+  "empty_outline_action": "Subir archivos",
+  "empty_muted_title": "Sin notificaciones",
+  "empty_muted_description": "Estás al día. Las nuevas notificaciones aparecerán aquí.",
+  "empty_muted_action": "Actualizar",
+  "empty_avatar_title": "Usuario desconectado",
+  "empty_avatar_description": "Este usuario está desconectado. Puedes dejar un mensaje o intentarlo más tarde.",
+  "empty_avatar_action": "Dejar mensaje"
 }

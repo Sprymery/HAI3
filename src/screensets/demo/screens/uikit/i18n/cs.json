@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "Smazat účet",
   "alert_dialog_delete_title": "Smazat účet?",
   "alert_dialog_delete_description": "Toto trvale smaže váš účet a všechna související data. Tuto akci nelze vrátit.",
-  "alert_dialog_delete_action": "Smazat"
+  "alert_dialog_delete_action": "Smazat",
+  "empty_heading": "Prázdné",
+  "empty_outline_title": "Cloudové úložiště je prázdné",
+  "empty_outline_description": "Nahrajte soubory do cloudového úložiště pro přístup odkudkoli.",
+  "empty_outline_action": "Nahrát soubory",
+  "empty_muted_title": "Žádná oznámení",
+  "empty_muted_description": "Jste v obraze. Nová oznámení se zobrazí zde.",
+  "empty_muted_action": "Obnovit",
+  "empty_avatar_title": "Uživatel offline",
+  "empty_avatar_description": "Tento uživatel je momentálně offline. Můžete zanechat zprávu nebo to zkusit později.",
+  "empty_avatar_action": "Zanechat zprávu"
 }

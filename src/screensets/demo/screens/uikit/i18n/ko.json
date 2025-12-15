@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "계정 삭제",
   "alert_dialog_delete_title": "계정을 삭제하시겠습니까?",
   "alert_dialog_delete_description": "계정과 모든 관련 데이터가 영구적으로 삭제됩니다. 이 작업은 되돌릴 수 없습니다.",
-  "alert_dialog_delete_action": "삭제"
+  "alert_dialog_delete_action": "삭제",
+  "empty_heading": "비어 있음",
+  "empty_outline_title": "클라우드 저장소 비어 있음",
+  "empty_outline_description": "클라우드 저장소에 파일을 업로드하여 어디서나 액세스하세요.",
+  "empty_outline_action": "파일 업로드",
+  "empty_muted_title": "알림 없음",
+  "empty_muted_description": "모든 알림을 확인했습니다. 새 알림이 여기에 표시됩니다.",
+  "empty_muted_action": "새로고침",
+  "empty_avatar_title": "사용자 오프라인",
+  "empty_avatar_description": "이 사용자는 현재 오프라인입니다. 메시지를 남기거나 나중에 다시 시도하세요.",
+  "empty_avatar_action": "메시지 남기기"
 }

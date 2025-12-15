@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "Supprimer le compte",
   "alert_dialog_delete_title": "Supprimer le compte ?",
   "alert_dialog_delete_description": "Cela supprimera définitivement votre compte et toutes les données associées. Cette action est irréversible.",
-  "alert_dialog_delete_action": "Supprimer"
+  "alert_dialog_delete_action": "Supprimer",
+  "empty_heading": "Vide",
+  "empty_outline_title": "Stockage cloud vide",
+  "empty_outline_description": "Téléchargez des fichiers vers votre stockage cloud pour y accéder de partout.",
+  "empty_outline_action": "Télécharger des fichiers",
+  "empty_muted_title": "Aucune notification",
+  "empty_muted_description": "Vous êtes à jour. Les nouvelles notifications apparaîtront ici.",
+  "empty_muted_action": "Actualiser",
+  "empty_avatar_title": "Utilisateur hors ligne",
+  "empty_avatar_description": "Cet utilisateur est actuellement hors ligne. Vous pouvez laisser un message ou réessayer plus tard.",
+  "empty_avatar_action": "Laisser un message"
 }

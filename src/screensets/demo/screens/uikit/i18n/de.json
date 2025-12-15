@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "Konto löschen",
   "alert_dialog_delete_title": "Konto löschen?",
   "alert_dialog_delete_description": "Ihr Konto und alle zugehörigen Daten werden dauerhaft gelöscht. Diese Aktion kann nicht rückgängig gemacht werden.",
-  "alert_dialog_delete_action": "Löschen"
+  "alert_dialog_delete_action": "Löschen",
+  "empty_heading": "Leer",
+  "empty_outline_title": "Cloud-Speicher leer",
+  "empty_outline_description": "Laden Sie Dateien in Ihren Cloud-Speicher hoch, um von überall darauf zugreifen zu können.",
+  "empty_outline_action": "Dateien hochladen",
+  "empty_muted_title": "Keine Benachrichtigungen",
+  "empty_muted_description": "Sie sind auf dem neuesten Stand. Neue Benachrichtigungen erscheinen hier.",
+  "empty_muted_action": "Aktualisieren",
+  "empty_avatar_title": "Benutzer offline",
+  "empty_avatar_description": "Dieser Benutzer ist derzeit offline. Sie können eine Nachricht hinterlassen oder es später erneut versuchen.",
+  "empty_avatar_action": "Nachricht hinterlassen"
 }

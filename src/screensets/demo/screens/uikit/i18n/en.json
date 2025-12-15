@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "Delete Account",
   "alert_dialog_delete_title": "Delete Account?",
   "alert_dialog_delete_description": "This will permanently delete your account and all associated data. This action cannot be reversed.",
-  "alert_dialog_delete_action": "Delete"
+  "alert_dialog_delete_action": "Delete",
+  "empty_heading": "Empty",
+  "empty_outline_title": "Cloud Storage Empty",
+  "empty_outline_description": "Upload files to your cloud storage to access them anywhere.",
+  "empty_outline_action": "Upload Files",
+  "empty_muted_title": "No Notifications",
+  "empty_muted_description": "You're all caught up. New notifications will appear here.",
+  "empty_muted_action": "Refresh",
+  "empty_avatar_title": "User Offline",
+  "empty_avatar_description": "This user is currently offline. You can leave a message to notify them or try again later.",
+  "empty_avatar_action": "Leave Message"
 }

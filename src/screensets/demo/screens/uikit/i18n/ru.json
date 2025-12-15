@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "Удалить аккаунт",
   "alert_dialog_delete_title": "Удалить аккаунт?",
   "alert_dialog_delete_description": "Ваш аккаунт и все связанные данные будут удалены навсегда. Это действие нельзя отменить.",
-  "alert_dialog_delete_action": "Удалить"
+  "alert_dialog_delete_action": "Удалить",
+  "empty_heading": "Пусто",
+  "empty_outline_title": "Облачное хранилище пусто",
+  "empty_outline_description": "Загрузите файлы в облачное хранилище для доступа из любой точки.",
+  "empty_outline_action": "Загрузить файлы",
+  "empty_muted_title": "Нет уведомлений",
+  "empty_muted_description": "Вы всё просмотрели. Новые уведомления появятся здесь.",
+  "empty_muted_action": "Обновить",
+  "empty_avatar_title": "Пользователь не в сети",
+  "empty_avatar_description": "Этот пользователь сейчас не в сети. Вы можете оставить сообщение или попробовать позже.",
+  "empty_avatar_action": "Оставить сообщение"
 }

@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "Διαγραφή λογαριασμού",
   "alert_dialog_delete_title": "Διαγραφή λογαριασμού;",
   "alert_dialog_delete_description": "Θα διαγραφεί οριστικά ο λογαριασμός σας και όλα τα συσχετισμένα δεδομένα. Αυτή η ενέργεια δεν μπορεί να αντιστραφεί.",
-  "alert_dialog_delete_action": "Διαγραφή"
+  "alert_dialog_delete_action": "Διαγραφή",
+  "empty_heading": "Κενό",
+  "empty_outline_title": "Ο χώρος αποθήκευσης cloud είναι κενός",
+  "empty_outline_description": "Ανεβάστε αρχεία στον αποθηκευτικό χώρο cloud για πρόσβαση από οπουδήποτε.",
+  "empty_outline_action": "Μεταφόρτωση αρχείων",
+  "empty_muted_title": "Δεν υπάρχουν ειδοποιήσεις",
+  "empty_muted_description": "Είστε ενημερωμένοι. Νέες ειδοποιήσεις θα εμφανίζονται εδώ.",
+  "empty_muted_action": "Ανανέωση",
+  "empty_avatar_title": "Χρήστης εκτός σύνδεσης",
+  "empty_avatar_description": "Αυτός ο χρήστης είναι εκτός σύνδεσης. Μπορείτε να αφήσετε μήνυμα ή να δοκιμάσετε αργότερα.",
+  "empty_avatar_action": "Αφήστε μήνυμα"
 }

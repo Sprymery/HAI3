@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "Burahin ang Account",
   "alert_dialog_delete_title": "Burahin ang Account?",
   "alert_dialog_delete_description": "Permanenteng mabubura ang iyong account at lahat ng kaugnay na data. Hindi mababawi ang aksyon na ito.",
-  "alert_dialog_delete_action": "Burahin"
+  "alert_dialog_delete_action": "Burahin",
+  "empty_heading": "Walang laman",
+  "empty_outline_title": "Walang laman ang cloud storage",
+  "empty_outline_description": "Mag-upload ng mga file sa iyong cloud storage para ma-access sila kahit saan.",
+  "empty_outline_action": "Mag-upload ng Files",
+  "empty_muted_title": "Walang mga notification",
+  "empty_muted_description": "Updated ka na. Ang mga bagong notification ay lalabas dito.",
+  "empty_muted_action": "I-refresh",
+  "empty_avatar_title": "Offline ang user",
+  "empty_avatar_description": "Offline ang user na ito. Maaari kang mag-iwan ng mensahe o subukan ulit mamaya.",
+  "empty_avatar_action": "Mag-iwan ng Mensahe"
 }

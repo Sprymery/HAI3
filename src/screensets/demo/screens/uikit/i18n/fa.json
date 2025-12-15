@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "حذف حساب",
   "alert_dialog_delete_title": "حذف حساب؟",
   "alert_dialog_delete_description": "این کار حساب کاربری و تمام داده‌های مرتبط را به طور دائم حذف می‌کند. این عمل قابل بازگشت نیست.",
-  "alert_dialog_delete_action": "حذف"
+  "alert_dialog_delete_action": "حذف",
+  "empty_heading": "خالی",
+  "empty_outline_title": "فضای ابری خالی است",
+  "empty_outline_description": "فایل‌ها را در فضای ابری خود بارگذاری کنید تا از هر جایی به آن‌ها دسترسی داشته باشید.",
+  "empty_outline_action": "بارگذاری فایل‌ها",
+  "empty_muted_title": "اعلان وجود ندارد",
+  "empty_muted_description": "همه چیز را دیده‌اید. اعلان‌های جدید اینجا نمایش داده می‌شوند.",
+  "empty_muted_action": "بازخوانی",
+  "empty_avatar_title": "کاربر آفلاین است",
+  "empty_avatar_description": "این کاربر در حال حاضر آفلاین است. می‌توانید پیام بگذارید یا بعداً دوباره امتحان کنید.",
+  "empty_avatar_action": "گذاشتن پیام"
 }

@@ -594,5 +594,15 @@
   "alert_dialog_delete_trigger": "Futa Akaunti",
   "alert_dialog_delete_title": "Futa Akaunti?",
   "alert_dialog_delete_description": "Hii itafuta akaunti yako na data zote zinazohusiana kwa kudumu. Kitendo hiki hakiwezi kutenduliwa.",
-  "alert_dialog_delete_action": "Futa"
+  "alert_dialog_delete_action": "Futa",
+  "empty_heading": "Tupu",
+  "empty_outline_title": "Hifadhi ya wingu ni tupu",
+  "empty_outline_description": "Pakia faili kwenye hifadhi yako ya wingu ili uzifikie popote.",
+  "empty_outline_action": "Pakia Faili",
+  "empty_muted_title": "Hakuna arifa",
+  "empty_muted_description": "Umesasishwa. Arifa mpya zitaonekana hapa.",
+  "empty_muted_action": "Sasisha",
+  "empty_avatar_title": "Mtumiaji hayuko mtandaoni",
+  "empty_avatar_description": "Mtumiaji huyu hayuko mtandaoni sasa. Unaweza kuacha ujumbe au jaribu tena baadaye.",
+  "empty_avatar_action": "Acha Ujumbe"
 }
