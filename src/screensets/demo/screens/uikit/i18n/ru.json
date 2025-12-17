@@ -621,5 +621,17 @@
   "empty_muted_action": "Обновить",
   "empty_avatar_title": "Пользователь не в сети",
   "empty_avatar_description": "Этот пользователь сейчас не в сети. Вы можете оставить сообщение или попробовать позже.",
-  "empty_avatar_action": "Оставить сообщение"
+  "empty_avatar_action": "Оставить сообщение",
+  "button_group_heading": "Группа кнопок",
+  "button_group_size_label": "Варианты размера",
+  "button_group_nested_label": "Вложенные",
+  "button_group_orientation_label": "Ориентация",
+  "button_group_small": "Маленький",
+  "button_group_default": "По умолчанию",
+  "button_group_large": "Большой",
+  "button_group_group": "Группа",
+  "button_group_input_label": "С группой ввода",
+  "button_group_message_placeholder": "Отправить сообщение...",
+  "button_group_voice_placeholder": "Записать и отправить аудио...",
+  "button_group_voice_mode": "Голосовой режим"
 }

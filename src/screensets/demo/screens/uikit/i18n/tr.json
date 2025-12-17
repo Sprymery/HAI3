@@ -621,5 +621,17 @@
   "empty_muted_action": "Yenile",
   "empty_avatar_title": "Kullanıcı çevrimdışı",
   "empty_avatar_description": "Bu kullanıcı şu anda çevrimdışı. Mesaj bırakabilir veya daha sonra tekrar deneyebilirsiniz.",
-  "empty_avatar_action": "Mesaj Bırak"
+  "empty_avatar_action": "Mesaj Bırak",
+  "button_group_heading": "Düğme Grubu",
+  "button_group_size_label": "Boyut Varyantları",
+  "button_group_nested_label": "İç İçe",
+  "button_group_orientation_label": "Yön",
+  "button_group_small": "Küçük",
+  "button_group_default": "Varsayılan",
+  "button_group_large": "Büyük",
+  "button_group_group": "Grup",
+  "button_group_input_label": "Giriş grubu ile",
+  "button_group_message_placeholder": "Bir mesaj gönderin...",
+  "button_group_voice_placeholder": "Ses kaydedin ve gönderin...",
+  "button_group_voice_mode": "Ses modu"
 }

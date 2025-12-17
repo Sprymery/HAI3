@@ -621,5 +621,17 @@
   "empty_muted_action": "Vernieuwen",
   "empty_avatar_title": "Gebruiker offline",
   "empty_avatar_description": "Deze gebruiker is momenteel offline. Je kunt een bericht achterlaten of later opnieuw proberen.",
-  "empty_avatar_action": "Bericht achterlaten"
+  "empty_avatar_action": "Bericht achterlaten",
+  "button_group_heading": "Knopengroep",
+  "button_group_size_label": "Groottevarianten",
+  "button_group_nested_label": "Genest",
+  "button_group_orientation_label": "Oriëntatie",
+  "button_group_small": "Klein",
+  "button_group_default": "Standaard",
+  "button_group_large": "Groot",
+  "button_group_group": "Groep",
+  "button_group_input_label": "Met invoergroep",
+  "button_group_message_placeholder": "Stuur een bericht...",
+  "button_group_voice_placeholder": "Neem audio op en verstuur...",
+  "button_group_voice_mode": "Spraakstand"
 }

@@ -621,5 +621,17 @@
   "empty_muted_action": "Oppdater",
   "empty_avatar_title": "Bruker frakoblet",
   "empty_avatar_description": "Denne brukeren er frakoblet. Du kan legge igjen en melding eller prøve igjen senere.",
-  "empty_avatar_action": "Legg igjen melding"
+  "empty_avatar_action": "Legg igjen melding",
+  "button_group_heading": "Knappgruppe",
+  "button_group_size_label": "Størrelsesvarianter",
+  "button_group_nested_label": "Nestet",
+  "button_group_orientation_label": "Orientering",
+  "button_group_small": "Liten",
+  "button_group_default": "Standard",
+  "button_group_large": "Stor",
+  "button_group_group": "Gruppe",
+  "button_group_input_label": "Med inndatagruppe",
+  "button_group_message_placeholder": "Send en melding...",
+  "button_group_voice_placeholder": "Ta opp og send lyd...",
+  "button_group_voice_mode": "Stemmemodus"
 }

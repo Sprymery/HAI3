@@ -621,5 +621,17 @@
   "empty_muted_action": "புதுப்பி",
   "empty_avatar_title": "பயனர் ஆஃப்லைன்",
   "empty_avatar_description": "இந்த பயனர் தற்போது ஆஃப்லைனில் உள்ளார். நீங்கள் செய்தி விடலாம் அல்லது பின்னர் முயற்சிக்கலாம்.",
-  "empty_avatar_action": "செய்தி விடு"
+  "empty_avatar_action": "செய்தி விடு",
+  "button_group_heading": "பொத்தான் குழு",
+  "button_group_size_label": "அளவு மாறுபாடுகள்",
+  "button_group_nested_label": "உள்ளமைந்த",
+  "button_group_orientation_label": "திசை",
+  "button_group_small": "சிறிய",
+  "button_group_default": "இயல்புநிலை",
+  "button_group_large": "பெரிய",
+  "button_group_group": "குழு",
+  "button_group_input_label": "உள்ளீட்டு குழுவுடன்",
+  "button_group_message_placeholder": "ஒரு செய்தி அனுப்பவும்...",
+  "button_group_voice_placeholder": "ஆடியோ பதிவு செய்து அனுப்பவும்...",
+  "button_group_voice_mode": "குரல் பயன்முறை"
 }

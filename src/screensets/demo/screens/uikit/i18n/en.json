@@ -621,5 +621,17 @@
   "empty_muted_action": "Refresh",
   "empty_avatar_title": "User Offline",
   "empty_avatar_description": "This user is currently offline. You can leave a message to notify them or try again later.",
-  "empty_avatar_action": "Leave Message"
+  "empty_avatar_action": "Leave Message",
+  "button_group_heading": "Button Group",
+  "button_group_size_label": "Size Variants",
+  "button_group_nested_label": "Nested",
+  "button_group_orientation_label": "Orientation",
+  "button_group_small": "Small",
+  "button_group_default": "Default",
+  "button_group_large": "Large",
+  "button_group_group": "Group",
+  "button_group_input_label": "With Input Group",
+  "button_group_message_placeholder": "Send a message...",
+  "button_group_voice_placeholder": "Record and send audio...",
+  "button_group_voice_mode": "Voice Mode"
 }

@@ -621,5 +621,17 @@
   "empty_muted_action": "Obnovit",
   "empty_avatar_title": "Uživatel offline",
   "empty_avatar_description": "Tento uživatel je momentálně offline. Můžete zanechat zprávu nebo to zkusit později.",
-  "empty_avatar_action": "Zanechat zprávu"
+  "empty_avatar_action": "Zanechat zprávu",
+  "button_group_heading": "Skupina tlačítek",
+  "button_group_size_label": "Varianty velikosti",
+  "button_group_nested_label": "Vnořené",
+  "button_group_orientation_label": "Orientace",
+  "button_group_small": "Malé",
+  "button_group_default": "Výchozí",
+  "button_group_large": "Velké",
+  "button_group_group": "Skupina",
+  "button_group_input_label": "Se skupinou vstupů",
+  "button_group_message_placeholder": "Odeslat zprávu...",
+  "button_group_voice_placeholder": "Nahrajte a odešlete zvuk...",
+  "button_group_voice_mode": "Hlasový režim"
 }

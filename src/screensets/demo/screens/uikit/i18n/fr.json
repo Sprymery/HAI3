@@ -621,5 +621,17 @@
   "empty_muted_action": "Actualiser",
   "empty_avatar_title": "Utilisateur hors ligne",
   "empty_avatar_description": "Cet utilisateur est actuellement hors ligne. Vous pouvez laisser un message ou réessayer plus tard.",
-  "empty_avatar_action": "Laisser un message"
+  "empty_avatar_action": "Laisser un message",
+  "button_group_heading": "Groupe de boutons",
+  "button_group_size_label": "Variantes de taille",
+  "button_group_nested_label": "Imbriqué",
+  "button_group_orientation_label": "Orientation",
+  "button_group_small": "Petit",
+  "button_group_default": "Par défaut",
+  "button_group_large": "Grand",
+  "button_group_group": "Groupe",
+  "button_group_input_label": "Avec groupe de saisie",
+  "button_group_message_placeholder": "Envoyer un message...",
+  "button_group_voice_placeholder": "Enregistrer et envoyer de l'audio...",
+  "button_group_voice_mode": "Mode vocal"
 }

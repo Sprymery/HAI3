@@ -621,5 +621,17 @@
   "empty_muted_action": "รีเฟรช",
   "empty_avatar_title": "ผู้ใช้ออฟไลน์",
   "empty_avatar_description": "ผู้ใช้นี้ออฟไลน์อยู่ คุณสามารถฝากข้อความหรือลองใหม่ภายหลัง",
-  "empty_avatar_action": "ฝากข้อความ"
+  "empty_avatar_action": "ฝากข้อความ",
+  "button_group_heading": "กลุ่มปุ่ม",
+  "button_group_size_label": "ขนาดต่างๆ",
+  "button_group_nested_label": "ซ้อนกัน",
+  "button_group_orientation_label": "ทิศทาง",
+  "button_group_small": "เล็ก",
+  "button_group_default": "ค่าเริ่มต้น",
+  "button_group_large": "ใหญ่",
+  "button_group_group": "กลุ่ม",
+  "button_group_input_label": "พร้อมกลุ่มอินพุต",
+  "button_group_message_placeholder": "ส่งข้อความ...",
+  "button_group_voice_placeholder": "บันทึกและส่งเสียง...",
+  "button_group_voice_mode": "โหมดเสียง"
 }

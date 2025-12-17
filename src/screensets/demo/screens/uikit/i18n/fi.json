@@ -621,5 +621,17 @@
   "empty_muted_action": "Päivitä",
   "empty_avatar_title": "Käyttäjä offline",
   "empty_avatar_description": "Tämä käyttäjä on offline. Voit jättää viestin tai yrittää myöhemmin uudelleen.",
-  "empty_avatar_action": "Jätä viesti"
+  "empty_avatar_action": "Jätä viesti",
+  "button_group_heading": "Painikeryhm",
+  "button_group_size_label": "Kokovariantit",
+  "button_group_nested_label": "Sisäkkäinen",
+  "button_group_orientation_label": "Suunta",
+  "button_group_small": "Pieni",
+  "button_group_default": "Oletus",
+  "button_group_large": "Suuri",
+  "button_group_group": "Ryhmä",
+  "button_group_input_label": "Syöttöryhmällä",
+  "button_group_message_placeholder": "Lähetä viesti...",
+  "button_group_voice_placeholder": "Nauhoita ja lähetä ääni...",
+  "button_group_voice_mode": "Äänitila"
 }

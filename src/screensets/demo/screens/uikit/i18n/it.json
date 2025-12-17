@@ -621,5 +621,17 @@
   "empty_muted_action": "Aggiorna",
   "empty_avatar_title": "Utente offline",
   "empty_avatar_description": "Questo utente è attualmente offline. Puoi lasciare un messaggio o riprovare più tardi.",
-  "empty_avatar_action": "Lascia messaggio"
+  "empty_avatar_action": "Lascia messaggio",
+  "button_group_heading": "Gruppo di pulsanti",
+  "button_group_size_label": "Varianti di dimensione",
+  "button_group_nested_label": "Annidato",
+  "button_group_orientation_label": "Orientamento",
+  "button_group_small": "Piccolo",
+  "button_group_default": "Predefinito",
+  "button_group_large": "Grande",
+  "button_group_group": "Gruppo",
+  "button_group_input_label": "Con gruppo di input",
+  "button_group_message_placeholder": "Invia un messaggio...",
+  "button_group_voice_placeholder": "Registra e invia audio...",
+  "button_group_voice_mode": "Modalità vocale"
 }

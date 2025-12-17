@@ -20,7 +20,7 @@ export const IconButton = React.forwardRef<HTMLButtonElement, IconButtonProps>(
     const sizeStyles: Record<IconButtonSize, string> = {
       [IconButtonSize.Small]: 'h-8 w-8',
       [IconButtonSize.Default]: 'h-9 w-9',
-      [IconButtonSize.Large]: 'h-11 w-11',
+      [IconButtonSize.Large]: 'h-10 w-10',
     };
 
     return (

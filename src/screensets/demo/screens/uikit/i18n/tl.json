@@ -621,5 +621,17 @@
   "empty_muted_action": "I-refresh",
   "empty_avatar_title": "Offline ang user",
   "empty_avatar_description": "Offline ang user na ito. Maaari kang mag-iwan ng mensahe o subukan ulit mamaya.",
-  "empty_avatar_action": "Mag-iwan ng Mensahe"
+  "empty_avatar_action": "Mag-iwan ng Mensahe",
+  "button_group_heading": "Grupo ng Button",
+  "button_group_size_label": "Mga Variant ng Laki",
+  "button_group_nested_label": "Nested",
+  "button_group_orientation_label": "Oryentasyon",
+  "button_group_small": "Maliit",
+  "button_group_default": "Default",
+  "button_group_large": "Malaki",
+  "button_group_group": "Grupo",
+  "button_group_input_label": "May input group",
+  "button_group_message_placeholder": "Magpadala ng mensahe...",
+  "button_group_voice_placeholder": "Mag-record at magpadala ng audio...",
+  "button_group_voice_mode": "Voice Mode"
 }

@@ -1,7 +1,22 @@
 import React from 'react';
-import { Button, IconButton, ButtonVariant, ButtonSize, IconButtonSize } from '@hai3/uikit';
+import {
+  Button,
+  IconButton,
+  ButtonVariant,
+  ButtonSize,
+  IconButtonSize,
+  ButtonGroup,
+  InputGroup,
+  InputGroupAddon,
+  InputGroupButton,
+  InputGroupInput,
+  Tooltip,
+  TooltipTrigger,
+  TooltipContent,
+} from '@hai3/uikit';
 import { useTranslation, TextLoader } from '@hai3/uicore';
 import { StarIcon } from '../uikit/icons/StarIcon';
+import { PlusIcon, MinusIcon, ArrowLeftIcon, ArrowRightIcon, AudioLinesIcon } from 'lucide-react';
 import { DEMO_SCREENSET_ID } from "../ids";
 import { UI_KIT_ELEMENTS_SCREEN_ID } from "../ids";
 
@@ -12,6 +27,7 @@ import { UI_KIT_ELEMENTS_SCREEN_ID } from "../ids";
  */
 export const ActionElements: React.FC = () => {
   const { t } = useTranslation();
+  const [voiceEnabled, setVoiceEnabled] = React.useState(false);
 
   // Helper function to access parent screen's translations
   const tk = (key: string) => t(`screen.${DEMO_SCREENSET_ID}.${UI_KIT_ELEMENTS_SCREEN_ID}:${key}`);
@@ -109,6 +125,171 @@ export const ActionElements: React.FC = () => {
                 <StarIcon />
               </IconButton>
             </div>
+          </div>
+        </div>
+      </div>
+
+      {/* Button Group Element Block */}
+      <div data-element-id="element-button-group" className="flex flex-col gap-4">
+        <TextLoader skeletonClassName="h-8 w-32">
+          <h2 className="text-2xl font-semibold">
+            {tk('button_group_heading')}
+          </h2>
+        </TextLoader>
+        <div className="flex flex-col gap-6 p-6 border border-border rounded-lg bg-background overflow-hidden">
+          {/* Size Example */}
+          <div className="flex flex-col gap-2">
+            <TextLoader skeletonClassName="h-5 w-24">
+              <span className="text-sm text-muted-foreground font-medium">
+                {tk('button_group_size_label')}
+              </span>
+            </TextLoader>
+            <div className="flex flex-col items-start gap-4">
+              <ButtonGroup>
+                <Button variant={ButtonVariant.Outline} size={ButtonSize.Sm}>
+                  <TextLoader skeletonClassName="h-4 w-10" inheritColor>
+                    {tk('button_group_small')}
+                  </TextLoader>
+                </Button>
+                <Button variant={ButtonVariant.Outline} size={ButtonSize.Sm}>
+                  <TextLoader skeletonClassName="h-4 w-12" inheritColor>
+                    {tk('button_default')}
+                  </TextLoader>
+                </Button>
+                <Button variant={ButtonVariant.Outline} size={ButtonSize.Sm}>
+                  <TextLoader skeletonClassName="h-4 w-10" inheritColor>
+                    {tk('button_group_group')}
+                  </TextLoader>
+                </Button>
+                <IconButton variant={ButtonVariant.Outline} size={IconButtonSize.Small} aria-label="Add">
+                  <PlusIcon />
+                </IconButton>
+              </ButtonGroup>
+              <ButtonGroup>
+                <Button variant={ButtonVariant.Outline}>
+                  <TextLoader skeletonClassName="h-5 w-14" inheritColor>
+                    {tk('button_group_default')}
+                  </TextLoader>
+                </Button>
+                <Button variant={ButtonVariant.Outline}>
+                  <TextLoader skeletonClassName="h-5 w-12" inheritColor>
+                    {tk('button_default')}
+                  </TextLoader>
+                </Button>
+                <Button variant={ButtonVariant.Outline}>
+                  <TextLoader skeletonClassName="h-5 w-10" inheritColor>
+                    {tk('button_group_group')}
+                  </TextLoader>
+                </Button>
+                <IconButton variant={ButtonVariant.Outline} size={IconButtonSize.Default} aria-label="Add">
+                  <PlusIcon />
+                </IconButton>
+              </ButtonGroup>
+              <ButtonGroup>
+                <Button variant={ButtonVariant.Outline} size={ButtonSize.Lg}>
+                  <TextLoader skeletonClassName="h-6 w-12" inheritColor>
+                    {tk('button_group_large')}
+                  </TextLoader>
+                </Button>
+                <Button variant={ButtonVariant.Outline} size={ButtonSize.Lg}>
+                  <TextLoader skeletonClassName="h-6 w-12" inheritColor>
+                    {tk('button_default')}
+                  </TextLoader>
+                </Button>
+                <Button variant={ButtonVariant.Outline} size={ButtonSize.Lg}>
+                  <TextLoader skeletonClassName="h-6 w-10" inheritColor>
+                    {tk('button_group_group')}
+                  </TextLoader>
+                </Button>
+                <IconButton variant={ButtonVariant.Outline} size={IconButtonSize.Large} aria-label="Add">
+                  <PlusIcon />
+                </IconButton>
+              </ButtonGroup>
+            </div>
+          </div>
+
+          {/* Nested Example */}
+          <div className="flex flex-col gap-2">
+            <TextLoader skeletonClassName="h-5 w-24">
+              <span className="text-sm text-muted-foreground font-medium">
+                {tk('button_group_nested_label')}
+              </span>
+            </TextLoader>
+            <ButtonGroup>
+              <ButtonGroup>
+                <Button variant={ButtonVariant.Outline} size={ButtonSize.Sm}>1</Button>
+                <Button variant={ButtonVariant.Outline} size={ButtonSize.Sm}>2</Button>
+                <Button variant={ButtonVariant.Outline} size={ButtonSize.Sm}>3</Button>
+                <Button variant={ButtonVariant.Outline} size={ButtonSize.Sm}>4</Button>
+                <Button variant={ButtonVariant.Outline} size={ButtonSize.Sm}>5</Button>
+              </ButtonGroup>
+              <ButtonGroup>
+                <IconButton variant={ButtonVariant.Outline} size={IconButtonSize.Small} aria-label="Previous">
+                  <ArrowLeftIcon />
+                </IconButton>
+                <IconButton variant={ButtonVariant.Outline} size={IconButtonSize.Small} aria-label="Next">
+                  <ArrowRightIcon />
+                </IconButton>
+              </ButtonGroup>
+            </ButtonGroup>
+          </div>
+
+          {/* Orientation Example */}
+          <div className="flex flex-col gap-2">
+            <TextLoader skeletonClassName="h-5 w-24">
+              <span className="text-sm text-muted-foreground font-medium">
+                {tk('button_group_orientation_label')}
+              </span>
+            </TextLoader>
+            <ButtonGroup orientation="vertical" aria-label="Media controls" className="h-fit">
+              <IconButton variant={ButtonVariant.Outline} size={IconButtonSize.Default} aria-label="Increase">
+                <PlusIcon />
+              </IconButton>
+              <IconButton variant={ButtonVariant.Outline} size={IconButtonSize.Default} aria-label="Decrease">
+                <MinusIcon />
+              </IconButton>
+            </ButtonGroup>
+          </div>
+
+          {/* With Input Group Example */}
+          <div className="flex flex-col gap-2">
+            <TextLoader skeletonClassName="h-5 w-32">
+              <span className="text-sm text-muted-foreground font-medium">
+                {tk('button_group_input_label')}
+              </span>
+            </TextLoader>
+            <ButtonGroup className="[--radius:9999rem]">
+              <ButtonGroup>
+                <IconButton variant={ButtonVariant.Outline} size={IconButtonSize.Default} aria-label="Add">
+                  <PlusIcon />
+                </IconButton>
+              </ButtonGroup>
+              <ButtonGroup>
+                <InputGroup>
+                  <InputGroupInput
+                    placeholder={voiceEnabled ? tk('button_group_voice_placeholder') : tk('button_group_message_placeholder')}
+                    disabled={voiceEnabled}
+                  />
+                  <InputGroupAddon align="inline-end">
+                    <Tooltip>
+                      <TooltipTrigger asChild>
+                        <InputGroupButton
+                          onClick={() => setVoiceEnabled(!voiceEnabled)}
+                          size="icon-xs"
+                          data-active={voiceEnabled}
+                          className="data-[active=true]:bg-orange-100 data-[active=true]:text-orange-700 dark:data-[active=true]:bg-orange-800 dark:data-[active=true]:text-orange-100"
+                          aria-pressed={voiceEnabled}
+                          aria-label={tk('button_group_voice_mode')}
+                        >
+                          <AudioLinesIcon />
+                        </InputGroupButton>
+                      </TooltipTrigger>
+                      <TooltipContent>{tk('button_group_voice_mode')}</TooltipContent>
+                    </Tooltip>
+                  </InputGroupAddon>
+                </InputGroup>
+              </ButtonGroup>
+            </ButtonGroup>
           </div>
         </div>
       </div>

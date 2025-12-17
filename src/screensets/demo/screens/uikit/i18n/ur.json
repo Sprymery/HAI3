@@ -621,5 +621,17 @@
   "empty_muted_action": "ریفریش",
   "empty_avatar_title": "صارف آف لائن",
   "empty_avatar_description": "یہ صارف فی الحال آف لائن ہے۔ آپ پیغام چھوڑ سکتے ہیں یا بعد میں دوبارہ کوشش کر سکتے ہیں۔",
-  "empty_avatar_action": "پیغام چھوڑیں"
+  "empty_avatar_action": "پیغام چھوڑیں",
+  "button_group_heading": "بٹن گروپ",
+  "button_group_size_label": "سائز کی اقسام",
+  "button_group_nested_label": "نیسٹڈ",
+  "button_group_orientation_label": "رخ",
+  "button_group_small": "چھوٹا",
+  "button_group_default": "ڈیفالٹ",
+  "button_group_large": "بڑا",
+  "button_group_group": "گروپ",
+  "button_group_input_label": "ان پٹ گروپ کے ساتھ",
+  "button_group_message_placeholder": "ایک پیغام بھیجیں...",
+  "button_group_voice_placeholder": "آڈیو ریکارڈ اور بھیجیں...",
+  "button_group_voice_mode": "وائس موڈ"
 }

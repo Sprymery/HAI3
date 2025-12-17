@@ -87,7 +87,6 @@ export const UIKIT_CATEGORIES: UIKitCategory[] = [
       'Skeleton',
       'Sonner',
       'Spinner',
-      'Toast',
     ],
   },
   {
@@ -173,6 +172,7 @@ export const IMPLEMENTED_ELEMENTS = [
   'Badge',
   'Breadcrumb',
   'Button',
+  'Button Group',
   'Calendar',
   'Card',
   'Carousel',

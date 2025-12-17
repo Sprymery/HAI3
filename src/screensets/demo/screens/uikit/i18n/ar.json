@@ -617,5 +617,17 @@
   "empty_muted_action": "تحديث",
   "empty_avatar_title": "المستخدم غير متصل",
   "empty_avatar_description": "هذا المستخدم غير متصل حاليًا. يمكنك ترك رسالة أو المحاولة لاحقًا.",
-  "empty_avatar_action": "ترك رسالة"
+  "empty_avatar_action": "ترك رسالة",
+  "button_group_heading": "مجموعة الأزرار",
+  "button_group_size_label": "أحجام مختلفة",
+  "button_group_nested_label": "متداخل",
+  "button_group_orientation_label": "الاتجاه",
+  "button_group_small": "صغير",
+  "button_group_default": "افتراضي",
+  "button_group_large": "كبير",
+  "button_group_group": "مجموعة",
+  "button_group_input_label": "مع مجموعة الإدخال",
+  "button_group_message_placeholder": "أرسل رسالة...",
+  "button_group_voice_placeholder": "سجل وأرسل صوتًا...",
+  "button_group_voice_mode": "وضع الصوت"
 }

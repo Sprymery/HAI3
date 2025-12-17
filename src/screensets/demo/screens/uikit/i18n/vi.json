@@ -621,5 +621,17 @@
   "empty_muted_action": "Làm mới",
   "empty_avatar_title": "Người dùng ngoại tuyến",
   "empty_avatar_description": "Người dùng này đang ngoại tuyến. Bạn có thể để lại tin nhắn hoặc thử lại sau.",
-  "empty_avatar_action": "Để lại tin nhắn"
+  "empty_avatar_action": "Để lại tin nhắn",
+  "button_group_heading": "Nhóm nút",
+  "button_group_size_label": "Biến thể kích thước",
+  "button_group_nested_label": "Lồng nhau",
+  "button_group_orientation_label": "Hướng",
+  "button_group_small": "Nhỏ",
+  "button_group_default": "Mặc định",
+  "button_group_large": "Lớn",
+  "button_group_group": "Nhóm",
+  "button_group_input_label": "Với nhóm nhập liệu",
+  "button_group_message_placeholder": "Gửi tin nhắn...",
+  "button_group_voice_placeholder": "Ghi và gửi âm thanh...",
+  "button_group_voice_mode": "Chế độ giọng nói"
 }

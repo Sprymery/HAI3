@@ -621,5 +621,17 @@
   "empty_muted_action": "Segarkan",
   "empty_avatar_title": "Pengguna offline",
   "empty_avatar_description": "Pengguna ini sedang offline. Anda dapat meninggalkan pesan atau coba lagi nanti.",
-  "empty_avatar_action": "Tinggalkan Pesan"
+  "empty_avatar_action": "Tinggalkan Pesan",
+  "button_group_heading": "Grup Tombol",
+  "button_group_size_label": "Varian Ukuran",
+  "button_group_nested_label": "Bersarang",
+  "button_group_orientation_label": "Orientasi",
+  "button_group_small": "Kecil",
+  "button_group_default": "Bawaan",
+  "button_group_large": "Besar",
+  "button_group_group": "Grup",
+  "button_group_input_label": "Dengan grup input",
+  "button_group_message_placeholder": "Kirim pesan...",
+  "button_group_voice_placeholder": "Rekam dan kirim audio...",
+  "button_group_voice_mode": "Mode suara"
 }

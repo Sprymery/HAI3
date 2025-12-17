@@ -621,5 +621,17 @@
   "empty_muted_action": "Reîmprospătare",
   "empty_avatar_title": "Utilizator offline",
   "empty_avatar_description": "Acest utilizator este offline. Puteți lăsa un mesaj sau încerca mai târziu.",
-  "empty_avatar_action": "Lăsați mesaj"
+  "empty_avatar_action": "Lăsați mesaj",
+  "button_group_heading": "Grup de butoane",
+  "button_group_size_label": "Variante de dimensiune",
+  "button_group_nested_label": "Imbricat",
+  "button_group_orientation_label": "Orientare",
+  "button_group_small": "Mic",
+  "button_group_default": "Implicit",
+  "button_group_large": "Mare",
+  "button_group_group": "Grup",
+  "button_group_input_label": "Cu grup de intrare",
+  "button_group_message_placeholder": "Trimite un mesaj...",
+  "button_group_voice_placeholder": "Înregistrați și trimiteți audio...",
+  "button_group_voice_mode": "Mod vocal"
 }

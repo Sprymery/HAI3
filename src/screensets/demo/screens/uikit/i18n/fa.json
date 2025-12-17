@@ -621,5 +621,17 @@
   "empty_muted_action": "بازخوانی",
   "empty_avatar_title": "کاربر آفلاین است",
   "empty_avatar_description": "این کاربر در حال حاضر آفلاین است. می‌توانید پیام بگذارید یا بعداً دوباره امتحان کنید.",
-  "empty_avatar_action": "گذاشتن پیام"
+  "empty_avatar_action": "گذاشتن پیام",
+  "button_group_heading": "گروه دکمه",
+  "button_group_size_label": "انواع اندازه",
+  "button_group_nested_label": "تو در تو",
+  "button_group_orientation_label": "جهت",
+  "button_group_small": "کوچک",
+  "button_group_default": "پیش‌فرض",
+  "button_group_large": "بزرگ",
+  "button_group_group": "گروه",
+  "button_group_input_label": "با گروه ورودی",
+  "button_group_message_placeholder": "یک پیام بفرستید...",
+  "button_group_voice_placeholder": "صدا ضبط و ارسال کنید...",
+  "button_group_voice_mode": "حالت صوتی"
 }

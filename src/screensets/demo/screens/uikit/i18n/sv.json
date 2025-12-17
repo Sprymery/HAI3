@@ -621,5 +621,17 @@
   "empty_muted_action": "Uppdatera",
   "empty_avatar_title": "Användare offline",
   "empty_avatar_description": "Denna användare är offline. Du kan lämna ett meddelande eller försöka igen senare.",
-  "empty_avatar_action": "Lämna meddelande"
+  "empty_avatar_action": "Lämna meddelande",
+  "button_group_heading": "Knappgrupp",
+  "button_group_size_label": "Storleksvarianter",
+  "button_group_nested_label": "Nästlad",
+  "button_group_orientation_label": "Orientering",
+  "button_group_small": "Liten",
+  "button_group_default": "Standard",
+  "button_group_large": "Stor",
+  "button_group_group": "Grupp",
+  "button_group_input_label": "Med inmatningsgrupp",
+  "button_group_message_placeholder": "Skicka ett meddelande...",
+  "button_group_voice_placeholder": "Spela in och skicka ljud...",
+  "button_group_voice_mode": "Röstläge"
 }

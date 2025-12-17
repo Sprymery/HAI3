@@ -621,5 +621,17 @@
   "empty_muted_action": "রিফ্রেশ",
   "empty_avatar_title": "ব্যবহারকারী অফলাইন",
   "empty_avatar_description": "এই ব্যবহারকারী বর্তমানে অফলাইন। আপনি বার্তা রাখতে পারেন বা পরে আবার চেষ্টা করতে পারেন।",
-  "empty_avatar_action": "বার্তা রাখুন"
+  "empty_avatar_action": "বার্তা রাখুন",
+  "button_group_heading": "বাটন গ্রুপ",
+  "button_group_size_label": "আকার বৈচিত্র্য",
+  "button_group_nested_label": "নেস্টেড",
+  "button_group_orientation_label": "অভিযোজন",
+  "button_group_small": "ছোট",
+  "button_group_default": "ডিফল্ট",
+  "button_group_large": "বড়",
+  "button_group_group": "গ্রুপ",
+  "button_group_input_label": "ইনপুট গ্রুপ সহ",
+  "button_group_message_placeholder": "একটি বার্তা পাঠান...",
+  "button_group_voice_placeholder": "অডিও রেকর্ড করুন এবং পাঠান...",
+  "button_group_voice_mode": "ভয়েস মোড"
 }

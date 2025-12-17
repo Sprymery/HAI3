@@ -621,5 +621,17 @@
   "empty_muted_action": "Opdater",
   "empty_avatar_title": "Bruger offline",
   "empty_avatar_description": "Denne bruger er offline. Du kan efterlade en besked eller prøve igen senere.",
-  "empty_avatar_action": "Efterlad besked"
+  "empty_avatar_action": "Efterlad besked",
+  "button_group_heading": "Knapgruppe",
+  "button_group_size_label": "Størrelsevarianter",
+  "button_group_nested_label": "Indlejret",
+  "button_group_orientation_label": "Orientering",
+  "button_group_small": "Lille",
+  "button_group_default": "Standard",
+  "button_group_large": "Stor",
+  "button_group_group": "Gruppe",
+  "button_group_input_label": "Med inputgruppe",
+  "button_group_message_placeholder": "Send en besked...",
+  "button_group_voice_placeholder": "Optag og send lyd...",
+  "button_group_voice_mode": "Stemmetilstand"
 }

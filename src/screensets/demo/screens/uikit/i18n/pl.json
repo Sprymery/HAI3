@@ -621,5 +621,17 @@
   "empty_muted_action": "Odśwież",
   "empty_avatar_title": "Użytkownik offline",
   "empty_avatar_description": "Ten użytkownik jest obecnie offline. Możesz zostawić wiadomość lub spróbować później.",
-  "empty_avatar_action": "Zostaw wiadomość"
+  "empty_avatar_action": "Zostaw wiadomość",
+  "button_group_heading": "Grupa przycisków",
+  "button_group_size_label": "Warianty rozmiaru",
+  "button_group_nested_label": "Zagnieżdżone",
+  "button_group_orientation_label": "Orientacja",
+  "button_group_small": "Mały",
+  "button_group_default": "Domyślny",
+  "button_group_large": "Duży",
+  "button_group_group": "Grupa",
+  "button_group_input_label": "Z grupą wejść",
+  "button_group_message_placeholder": "Wyślij wiadomość...",
+  "button_group_voice_placeholder": "Nagraj i wyślij dźwięk...",
+  "button_group_voice_mode": "Tryb głosowy"
 }

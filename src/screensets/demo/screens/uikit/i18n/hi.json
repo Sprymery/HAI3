@@ -621,5 +621,17 @@
   "empty_muted_action": "रिफ्रेश",
   "empty_avatar_title": "उपयोगकर्ता ऑफ़लाइन",
   "empty_avatar_description": "यह उपयोगकर्ता वर्तमान में ऑफ़लाइन है। आप संदेश छोड़ सकते हैं या बाद में पुनः प्रयास कर सकते हैं।",
-  "empty_avatar_action": "संदेश छोड़ें"
+  "empty_avatar_action": "संदेश छोड़ें",
+  "button_group_heading": "बटन समूह",
+  "button_group_size_label": "आकार वेरिएंट",
+  "button_group_nested_label": "नेस्टेड",
+  "button_group_orientation_label": "अभिविन्यास",
+  "button_group_small": "छोटा",
+  "button_group_default": "डिफ़ॉल्ट",
+  "button_group_large": "बड़ा",
+  "button_group_group": "समूह",
+  "button_group_input_label": "इनपुट समूह के साथ",
+  "button_group_message_placeholder": "एक संदेश भेजें...",
+  "button_group_voice_placeholder": "ऑडियो रिकॉर्ड करें और भेजें...",
+  "button_group_voice_mode": "वॉयस मोड"
 }

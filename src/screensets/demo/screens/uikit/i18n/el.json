@@ -621,5 +621,17 @@
   "empty_muted_action": "Ανανέωση",
   "empty_avatar_title": "Χρήστης εκτός σύνδεσης",
   "empty_avatar_description": "Αυτός ο χρήστης είναι εκτός σύνδεσης. Μπορείτε να αφήσετε μήνυμα ή να δοκιμάσετε αργότερα.",
-  "empty_avatar_action": "Αφήστε μήνυμα"
+  "empty_avatar_action": "Αφήστε μήνυμα",
+  "button_group_heading": "Ομάδα κουμπιών",
+  "button_group_size_label": "Παραλλαγές μεγέθους",
+  "button_group_nested_label": "Ένθετο",
+  "button_group_orientation_label": "Προσανατολισμός",
+  "button_group_small": "Μικρό",
+  "button_group_default": "Προεπιλογή",
+  "button_group_large": "Μεγάλο",
+  "button_group_group": "Ομάδα",
+  "button_group_input_label": "Με ομάδα εισόδου",
+  "button_group_message_placeholder": "Στείλτε ένα μήνυμα...",
+  "button_group_voice_placeholder": "Ηχογραφήστε και στείλτε ήχο...",
+  "button_group_voice_mode": "Λειτουργία φωνής"
 }

@@ -617,5 +617,17 @@
   "empty_muted_action": "Actualizar",
   "empty_avatar_title": "Usuario desconectado",
   "empty_avatar_description": "Este usuario está desconectado. Puedes dejar un mensaje o intentarlo más tarde.",
-  "empty_avatar_action": "Dejar mensaje"
+  "empty_avatar_action": "Dejar mensaje",
+  "button_group_heading": "Grupo de botones",
+  "button_group_size_label": "Variantes de tamaño",
+  "button_group_nested_label": "Anidado",
+  "button_group_orientation_label": "Orientación",
+  "button_group_small": "Pequeño",
+  "button_group_default": "Predeterminado",
+  "button_group_large": "Grande",
+  "button_group_group": "Grupo",
+  "button_group_input_label": "Con grupo de entrada",
+  "button_group_message_placeholder": "Enviar un mensaje...",
+  "button_group_voice_placeholder": "Grabar y enviar audio...",
+  "button_group_voice_mode": "Modo de voz"
 }

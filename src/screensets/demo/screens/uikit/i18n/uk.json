@@ -621,5 +621,17 @@
   "empty_muted_action": "Оновити",
   "empty_avatar_title": "Користувач офлайн",
   "empty_avatar_description": "Цей користувач зараз офлайн. Ви можете залишити повідомлення або спробувати пізніше.",
-  "empty_avatar_action": "Залишити повідомлення"
+  "empty_avatar_action": "Залишити повідомлення",
+  "button_group_heading": "Група кнопок",
+  "button_group_size_label": "Варіанти розміру",
+  "button_group_nested_label": "Вкладений",
+  "button_group_orientation_label": "Орієнтація",
+  "button_group_small": "Маленький",
+  "button_group_default": "За замовчуванням",
+  "button_group_large": "Великий",
+  "button_group_group": "Група",
+  "button_group_input_label": "З групою введення",
+  "button_group_message_placeholder": "Надіслати повідомлення...",
+  "button_group_voice_placeholder": "Записати та надіслати аудіо...",
+  "button_group_voice_mode": "Голосовий режим"
 }

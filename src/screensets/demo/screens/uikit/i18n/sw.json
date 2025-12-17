@@ -621,5 +621,17 @@
   "empty_muted_action": "Sasisha",
   "empty_avatar_title": "Mtumiaji hayuko mtandaoni",
   "empty_avatar_description": "Mtumiaji huyu hayuko mtandaoni sasa. Unaweza kuacha ujumbe au jaribu tena baadaye.",
-  "empty_avatar_action": "Acha Ujumbe"
+  "empty_avatar_action": "Acha Ujumbe",
+  "button_group_heading": "Kundi la Vitufe",
+  "button_group_size_label": "Aina za Ukubwa",
+  "button_group_nested_label": "Iliyoingizwa",
+  "button_group_orientation_label": "Mwelekeo",
+  "button_group_small": "Ndogo",
+  "button_group_default": "Chaguo-msingi",
+  "button_group_large": "Kubwa",
+  "button_group_group": "Kundi",
+  "button_group_input_label": "Na kikundi cha kuingiza",
+  "button_group_message_placeholder": "Tuma ujumbe...",
+  "button_group_voice_placeholder": "Rekodi na tuma sauti...",
+  "button_group_voice_mode": "Hali ya sauti"
 }

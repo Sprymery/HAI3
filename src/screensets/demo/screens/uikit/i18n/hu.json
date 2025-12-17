@@ -621,5 +621,17 @@
   "empty_muted_action": "Frissítés",
   "empty_avatar_title": "Felhasználó offline",
   "empty_avatar_description": "Ez a felhasználó jelenleg offline. Hagyhat üzenetet vagy próbálja újra később.",
-  "empty_avatar_action": "Üzenet hagyása"
+  "empty_avatar_action": "Üzenet hagyása",
+  "button_group_heading": "Gombcsoport",
+  "button_group_size_label": "Méretvariánsok",
+  "button_group_nested_label": "Beágyazott",
+  "button_group_orientation_label": "Tájolás",
+  "button_group_small": "Kicsi",
+  "button_group_default": "Alapértelmezett",
+  "button_group_large": "Nagy",
+  "button_group_group": "Csoport",
+  "button_group_input_label": "Beviteli csoporttal",
+  "button_group_message_placeholder": "Üzenet küldése...",
+  "button_group_voice_placeholder": "Hang rögzítése és küldése...",
+  "button_group_voice_mode": "Hangmód"
 }

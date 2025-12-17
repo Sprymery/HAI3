@@ -17,6 +17,12 @@ export {
 } from './base/empty';
 export { Avatar, AvatarImage, AvatarFallback } from './base/avatar';
 export { Button, type ButtonProps } from './base/button';
+export {
+  ButtonGroup,
+  ButtonGroupText,
+  ButtonGroupSeparator,
+  buttonGroupVariants,
+} from './base/button-group';
 // Re-export contract types to ensure consistency
 export { ButtonVariant, ButtonSize } from '@hai3/uikit-contracts';
 export { Badge, badgeVariants, type BadgeProps } from './base/badge';
