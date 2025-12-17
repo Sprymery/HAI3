@@ -645,5 +645,12 @@
   "command_calculator": "Kalkylator",
   "command_profile": "Profil",
   "command_billing": "Fakturering",
-  "command_settings_item": "Inställningar"
+  "command_settings_item": "Inställningar",
+  "toggle_heading": "Växla",
+  "toggle_default_label": "Standard",
+  "toggle_outline_label": "Kontur",
+  "toggle_disabled_label": "Inaktiverad",
+  "toggle_italic": "Kursiv",
+  "toggle_bookmark": "Bokmärke",
+  "toggle_with_text_label": "Med text"
 }

@@ -415,6 +415,9 @@ export {
   CommandSeparator,
 } from './base/command';
 
+// Toggle
+export { Toggle, toggleVariants } from './base/toggle';
+
 // Composite components
 export { IconButton, type IconButtonProps } from './composite/buttons/IconButton';
 export { DropdownButton, type DropdownButtonProps } from './composite/buttons/DropdownButton';

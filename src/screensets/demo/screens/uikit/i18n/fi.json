@@ -645,5 +645,12 @@
   "command_calculator": "Laskin",
   "command_profile": "Profiili",
   "command_billing": "Laskutus",
-  "command_settings_item": "Asetukset"
+  "command_settings_item": "Asetukset",
+  "toggle_heading": "Vaihda",
+  "toggle_default_label": "Oletus",
+  "toggle_outline_label": "Ääriviiva",
+  "toggle_disabled_label": "Poistettu käytöstä",
+  "toggle_italic": "Kursiivi",
+  "toggle_bookmark": "Kirjanmerkki",
+  "toggle_with_text_label": "Tekstillä"
 }

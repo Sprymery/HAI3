@@ -645,5 +645,12 @@
   "command_calculator": "Számológép",
   "command_profile": "Profil",
   "command_billing": "Számlázás",
-  "command_settings_item": "Beállítások"
+  "command_settings_item": "Beállítások",
+  "toggle_heading": "Váltás",
+  "toggle_default_label": "Alapértelmezett",
+  "toggle_outline_label": "Körvonal",
+  "toggle_disabled_label": "Letiltva",
+  "toggle_italic": "Dőlt",
+  "toggle_bookmark": "Könyvjelző",
+  "toggle_with_text_label": "Szöveggel"
 }

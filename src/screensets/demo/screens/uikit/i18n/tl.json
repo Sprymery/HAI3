@@ -645,5 +645,12 @@
   "command_calculator": "Calculator",
   "command_profile": "Profile",
   "command_billing": "Pagsingil",
-  "command_settings_item": "Mga Setting"
+  "command_settings_item": "Mga Setting",
+  "toggle_heading": "Toggle",
+  "toggle_default_label": "Default",
+  "toggle_outline_label": "Balangkas",
+  "toggle_disabled_label": "Hindi pinagana",
+  "toggle_italic": "Italiko",
+  "toggle_bookmark": "Bookmark",
+  "toggle_with_text_label": "May teksto"
 }

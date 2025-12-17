@@ -645,5 +645,12 @@
   "command_calculator": "Kalkulator",
   "command_profile": "Profil",
   "command_billing": "Fakturering",
-  "command_settings_item": "Innstillinger"
+  "command_settings_item": "Innstillinger",
+  "toggle_heading": "Veksle",
+  "toggle_default_label": "Standard",
+  "toggle_outline_label": "Omriss",
+  "toggle_disabled_label": "Deaktivert",
+  "toggle_italic": "Kursiv",
+  "toggle_bookmark": "Bokmerke",
+  "toggle_with_text_label": "Med tekst"
 }

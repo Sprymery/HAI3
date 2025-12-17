@@ -645,5 +645,12 @@
   "command_calculator": "கால்குலேட்டர்",
   "command_profile": "சுயவிவரம்",
   "command_billing": "பில்லிங்",
-  "command_settings_item": "அமைப்புகள்"
+  "command_settings_item": "அமைப்புகள்",
+  "toggle_heading": "மாற்று",
+  "toggle_default_label": "இயல்புநிலை",
+  "toggle_outline_label": "வெளிக்கோடு",
+  "toggle_disabled_label": "முடக்கப்பட்டது",
+  "toggle_italic": "சாய்வு",
+  "toggle_bookmark": "புத்தகக்குறி",
+  "toggle_with_text_label": "உரையுடன்"
 }

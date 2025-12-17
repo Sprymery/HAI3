@@ -645,5 +645,12 @@
   "command_calculator": "ক্যালকুলেটর",
   "command_profile": "প্রোফাইল",
   "command_billing": "বিলিং",
-  "command_settings_item": "সেটিংস"
+  "command_settings_item": "সেটিংস",
+  "toggle_heading": "টগল",
+  "toggle_default_label": "ডিফল্ট",
+  "toggle_outline_label": "আউটলাইন",
+  "toggle_disabled_label": "অক্ষম",
+  "toggle_italic": "ইটালিক",
+  "toggle_bookmark": "বুকমার্ক",
+  "toggle_with_text_label": "টেক্সট সহ"
 }

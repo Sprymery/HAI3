@@ -641,5 +641,12 @@
   "command_calculator": "الآلة الحاسبة",
   "command_profile": "الملف الشخصي",
   "command_billing": "الفوترة",
-  "command_settings_item": "الإعدادات"
+  "command_settings_item": "الإعدادات",
+  "toggle_heading": "تبديل",
+  "toggle_default_label": "افتراضي",
+  "toggle_outline_label": "محيط",
+  "toggle_disabled_label": "معطل",
+  "toggle_italic": "مائل",
+  "toggle_bookmark": "إشارة مرجعية",
+  "toggle_with_text_label": "مع نص"
 }

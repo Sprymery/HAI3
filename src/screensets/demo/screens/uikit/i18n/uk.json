@@ -645,5 +645,12 @@
   "command_calculator": "Калькулятор",
   "command_profile": "Профіль",
   "command_billing": "Рахунки",
-  "command_settings_item": "Налаштування"
+  "command_settings_item": "Налаштування",
+  "toggle_heading": "Перемикач",
+  "toggle_default_label": "За замовчуванням",
+  "toggle_outline_label": "Контур",
+  "toggle_disabled_label": "Вимкнено",
+  "toggle_italic": "Курсив",
+  "toggle_bookmark": "Закладка",
+  "toggle_with_text_label": "З текстом"
 }

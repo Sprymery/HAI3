@@ -641,5 +641,12 @@
   "command_calculator": "Calculadora",
   "command_profile": "Perfil",
   "command_billing": "Facturación",
-  "command_settings_item": "Configuración"
+  "command_settings_item": "Configuración",
+  "toggle_heading": "Alternar",
+  "toggle_default_label": "Predeterminado",
+  "toggle_outline_label": "Contorno",
+  "toggle_disabled_label": "Deshabilitado",
+  "toggle_italic": "Cursiva",
+  "toggle_bookmark": "Marcador",
+  "toggle_with_text_label": "Con texto"
 }

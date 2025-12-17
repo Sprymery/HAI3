@@ -645,5 +645,12 @@
   "command_calculator": "Rechner",
   "command_profile": "Profil",
   "command_billing": "Abrechnung",
-  "command_settings_item": "Einstellungen"
+  "command_settings_item": "Einstellungen",
+  "toggle_heading": "Umschalten",
+  "toggle_default_label": "Standard",
+  "toggle_outline_label": "Umriss",
+  "toggle_disabled_label": "Deaktiviert",
+  "toggle_italic": "Kursiv",
+  "toggle_bookmark": "Lesezeichen",
+  "toggle_with_text_label": "Mit Text"
 }

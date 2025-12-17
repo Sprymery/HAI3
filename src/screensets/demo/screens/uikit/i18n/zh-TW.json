@@ -645,5 +645,12 @@
   "command_calculator": "計算機",
   "command_profile": "個人資料",
   "command_billing": "帳單",
-  "command_settings_item": "設定"
+  "command_settings_item": "設定",
+  "toggle_heading": "切換",
+  "toggle_default_label": "預設",
+  "toggle_outline_label": "輪廓",
+  "toggle_disabled_label": "停用",
+  "toggle_italic": "斜體",
+  "toggle_bookmark": "書籤",
+  "toggle_with_text_label": "帶文字"
 }

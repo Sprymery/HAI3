@@ -645,5 +645,12 @@
   "command_calculator": "计算器",
   "command_profile": "个人资料",
   "command_billing": "账单",
-  "command_settings_item": "设置"
+  "command_settings_item": "设置",
+  "toggle_heading": "切换",
+  "toggle_default_label": "默认",
+  "toggle_outline_label": "轮廓",
+  "toggle_disabled_label": "禁用",
+  "toggle_italic": "斜体",
+  "toggle_bookmark": "书签",
+  "toggle_with_text_label": "带文本"
 }

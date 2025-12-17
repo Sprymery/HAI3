@@ -645,5 +645,12 @@
   "command_calculator": "کیلکولیٹر",
   "command_profile": "پروفائل",
   "command_billing": "بلنگ",
-  "command_settings_item": "ترتیبات"
+  "command_settings_item": "ترتیبات",
+  "toggle_heading": "ٹوگل",
+  "toggle_default_label": "ڈیفالٹ",
+  "toggle_outline_label": "آؤٹ لائن",
+  "toggle_disabled_label": "غیر فعال",
+  "toggle_italic": "ترچھا",
+  "toggle_bookmark": "بک مارک",
+  "toggle_with_text_label": "متن کے ساتھ"
 }

@@ -645,5 +645,12 @@
   "command_calculator": "電卓",
   "command_profile": "プロフィール",
   "command_billing": "請求",
-  "command_settings_item": "設定"
+  "command_settings_item": "設定",
+  "toggle_heading": "トグル",
+  "toggle_default_label": "デフォルト",
+  "toggle_outline_label": "アウトライン",
+  "toggle_disabled_label": "無効",
+  "toggle_italic": "イタリック",
+  "toggle_bookmark": "ブックマーク",
+  "toggle_with_text_label": "テキスト付き"
 }

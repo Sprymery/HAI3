@@ -645,5 +645,12 @@
   "command_calculator": "Rekenmachine",
   "command_profile": "Profiel",
   "command_billing": "Facturering",
-  "command_settings_item": "Instellingen"
+  "command_settings_item": "Instellingen",
+  "toggle_heading": "Schakelen",
+  "toggle_default_label": "Standaard",
+  "toggle_outline_label": "Omtrek",
+  "toggle_disabled_label": "Uitgeschakeld",
+  "toggle_italic": "Cursief",
+  "toggle_bookmark": "Bladwijzer",
+  "toggle_with_text_label": "Met tekst"
 }

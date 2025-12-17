@@ -645,5 +645,12 @@
   "command_calculator": "Kalkulator",
   "command_profile": "Profil",
   "command_billing": "Rozliczenia",
-  "command_settings_item": "Ustawienia"
+  "command_settings_item": "Ustawienia",
+  "toggle_heading": "Przełącznik",
+  "toggle_default_label": "Domyślny",
+  "toggle_outline_label": "Kontur",
+  "toggle_disabled_label": "Wyłączony",
+  "toggle_italic": "Kursywa",
+  "toggle_bookmark": "Zakładka",
+  "toggle_with_text_label": "Z tekstem"
 }

@@ -645,5 +645,12 @@
   "command_calculator": "Máy tính",
   "command_profile": "Hồ sơ",
   "command_billing": "Thanh toán",
-  "command_settings_item": "Cài đặt"
+  "command_settings_item": "Cài đặt",
+  "toggle_heading": "Chuyển đổi",
+  "toggle_default_label": "Mặc định",
+  "toggle_outline_label": "Viền",
+  "toggle_disabled_label": "Vô hiệu hóa",
+  "toggle_italic": "Nghiêng",
+  "toggle_bookmark": "Đánh dấu",
+  "toggle_with_text_label": "Có văn bản"
 }

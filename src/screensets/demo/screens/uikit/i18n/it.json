@@ -645,5 +645,12 @@
   "command_calculator": "Calcolatrice",
   "command_profile": "Profilo",
   "command_billing": "Fatturazione",
-  "command_settings_item": "Impostazioni"
+  "command_settings_item": "Impostazioni",
+  "toggle_heading": "Interruttore",
+  "toggle_default_label": "Predefinito",
+  "toggle_outline_label": "Contorno",
+  "toggle_disabled_label": "Disabilitato",
+  "toggle_italic": "Corsivo",
+  "toggle_bookmark": "Segnalibro",
+  "toggle_with_text_label": "Con testo"
 }

@@ -645,5 +645,12 @@
   "command_calculator": "कैलकुलेटर",
   "command_profile": "प्रोफ़ाइल",
   "command_billing": "बिलिंग",
-  "command_settings_item": "सेटिंग्स"
+  "command_settings_item": "सेटिंग्स",
+  "toggle_heading": "टॉगल",
+  "toggle_default_label": "डिफ़ॉल्ट",
+  "toggle_outline_label": "आउटलाइन",
+  "toggle_disabled_label": "अक्षम",
+  "toggle_italic": "इटैलिक",
+  "toggle_bookmark": "बुकमार्क",
+  "toggle_with_text_label": "टेक्स्ट के साथ"
 }

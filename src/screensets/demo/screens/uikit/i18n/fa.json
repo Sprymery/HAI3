@@ -645,5 +645,12 @@
   "command_calculator": "ماشین حساب",
   "command_profile": "نمایه",
   "command_billing": "صورتحساب",
-  "command_settings_item": "تنظیمات"
+  "command_settings_item": "تنظیمات",
+  "toggle_heading": "تغییر وضعیت",
+  "toggle_default_label": "پیش‌فرض",
+  "toggle_outline_label": "خطوط",
+  "toggle_disabled_label": "غیرفعال",
+  "toggle_italic": "کج",
+  "toggle_bookmark": "نشانک",
+  "toggle_with_text_label": "با متن"
 }

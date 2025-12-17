@@ -645,5 +645,12 @@
   "command_calculator": "Calculadora",
   "command_profile": "Perfil",
   "command_billing": "Faturamento",
-  "command_settings_item": "Configurações"
+  "command_settings_item": "Configurações",
+  "toggle_heading": "Alternar",
+  "toggle_default_label": "Padrão",
+  "toggle_outline_label": "Contorno",
+  "toggle_disabled_label": "Desativado",
+  "toggle_italic": "Itálico",
+  "toggle_bookmark": "Favorito",
+  "toggle_with_text_label": "Com texto"
 }

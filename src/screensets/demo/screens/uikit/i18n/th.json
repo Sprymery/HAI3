@@ -645,5 +645,12 @@
   "command_calculator": "เครื่องคิดเลข",
   "command_profile": "โปรไฟล์",
   "command_billing": "การเรียกเก็บเงิน",
-  "command_settings_item": "การตั้งค่า"
+  "command_settings_item": "การตั้งค่า",
+  "toggle_heading": "สลับ",
+  "toggle_default_label": "ค่าเริ่มต้น",
+  "toggle_outline_label": "โครงร่าง",
+  "toggle_disabled_label": "ปิดใช้งาน",
+  "toggle_italic": "ตัวเอียง",
+  "toggle_bookmark": "บุ๊กมาร์ก",
+  "toggle_with_text_label": "พร้อมข้อความ"
 }

@@ -645,5 +645,12 @@
   "command_calculator": "Calculatrice",
   "command_profile": "Profil",
   "command_billing": "Facturation",
-  "command_settings_item": "Paramètres"
+  "command_settings_item": "Paramètres",
+  "toggle_heading": "Basculer",
+  "toggle_default_label": "Par défaut",
+  "toggle_outline_label": "Contour",
+  "toggle_disabled_label": "Désactivé",
+  "toggle_italic": "Italique",
+  "toggle_bookmark": "Signet",
+  "toggle_with_text_label": "Avec texte"
 }

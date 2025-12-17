@@ -645,5 +645,12 @@
   "command_calculator": "Calculator",
   "command_profile": "Profil",
   "command_billing": "Facturare",
-  "command_settings_item": "Setări"
+  "command_settings_item": "Setări",
+  "toggle_heading": "Comutare",
+  "toggle_default_label": "Implicit",
+  "toggle_outline_label": "Contur",
+  "toggle_disabled_label": "Dezactivat",
+  "toggle_italic": "Italic",
+  "toggle_bookmark": "Semn de carte",
+  "toggle_with_text_label": "Cu text"
 }

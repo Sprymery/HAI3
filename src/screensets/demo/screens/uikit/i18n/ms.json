@@ -645,5 +645,12 @@
   "command_calculator": "Kalkulator",
   "command_profile": "Profil",
   "command_billing": "Pengebilan",
-  "command_settings_item": "Tetapan"
+  "command_settings_item": "Tetapan",
+  "toggle_heading": "Togol",
+  "toggle_default_label": "Lalai",
+  "toggle_outline_label": "Garis luar",
+  "toggle_disabled_label": "Dilumpuhkan",
+  "toggle_italic": "Italik",
+  "toggle_bookmark": "Penanda halaman",
+  "toggle_with_text_label": "Dengan teks"
 }

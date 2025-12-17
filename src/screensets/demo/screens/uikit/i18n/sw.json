@@ -645,5 +645,12 @@
   "command_calculator": "Kikokotoo",
   "command_profile": "Wasifu",
   "command_billing": "Utozaji",
-  "command_settings_item": "Mipangilio"
+  "command_settings_item": "Mipangilio",
+  "toggle_heading": "Badilisha",
+  "toggle_default_label": "Chaguo-msingi",
+  "toggle_outline_label": "Muhtasari",
+  "toggle_disabled_label": "Imezimwa",
+  "toggle_italic": "Mlazo",
+  "toggle_bookmark": "Alama ya kusoma",
+  "toggle_with_text_label": "Na maandishi"
 }

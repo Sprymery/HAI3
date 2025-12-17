@@ -645,5 +645,12 @@
   "command_calculator": "Kalkulator",
   "command_profile": "Profil",
   "command_billing": "Penagihan",
-  "command_settings_item": "Pengaturan"
+  "command_settings_item": "Pengaturan",
+  "toggle_heading": "Sakelar",
+  "toggle_default_label": "Default",
+  "toggle_outline_label": "Garis tepi",
+  "toggle_disabled_label": "Nonaktif",
+  "toggle_italic": "Miring",
+  "toggle_bookmark": "Penanda",
+  "toggle_with_text_label": "Dengan teks"
 }

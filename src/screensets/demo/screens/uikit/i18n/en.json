@@ -645,5 +645,12 @@
   "command_calculator": "Calculator",
   "command_profile": "Profile",
   "command_billing": "Billing",
-  "command_settings_item": "Settings"
+  "command_settings_item": "Settings",
+  "toggle_heading": "Toggle",
+  "toggle_default_label": "Default",
+  "toggle_outline_label": "Outline",
+  "toggle_disabled_label": "Disabled",
+  "toggle_italic": "Italic",
+  "toggle_bookmark": "Bookmark",
+  "toggle_with_text_label": "With Text"
 }

@@ -645,5 +645,12 @@
   "command_calculator": "계산기",
   "command_profile": "프로필",
   "command_billing": "청구",
-  "command_settings_item": "설정"
+  "command_settings_item": "설정",
+  "toggle_heading": "토글",
+  "toggle_default_label": "기본",
+  "toggle_outline_label": "윤곽선",
+  "toggle_disabled_label": "비활성화",
+  "toggle_italic": "기울임꼴",
+  "toggle_bookmark": "북마크",
+  "toggle_with_text_label": "텍스트 포함"
 }

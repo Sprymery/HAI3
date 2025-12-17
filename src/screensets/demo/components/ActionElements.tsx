@@ -21,6 +21,7 @@ import {
   CommandItem,
   CommandSeparator,
   CommandShortcut,
+  Toggle,
 } from '@hai3/uikit';
 import { useTranslation, TextLoader } from '@hai3/uicore';
 import { StarIcon } from '../uikit/icons/StarIcon';
@@ -36,6 +37,9 @@ import {
   UserIcon,
   CreditCardIcon,
   SettingsIcon,
+  ItalicIcon,
+  BookmarkIcon,
+  UnderlineIcon,
 } from 'lucide-react';
 import { DEMO_SCREENSET_ID } from "../ids";
 import { UI_KIT_ELEMENTS_SCREEN_ID } from "../ids";
@@ -379,6 +383,128 @@ export const ActionElements: React.FC = () => {
               </CommandGroup>
             </CommandList>
           </CommandDialog>
+        </div>
+      </div>
+
+      {/* Toggle Element Block */}
+      <div data-element-id="element-toggle" className="flex flex-col gap-4">
+        <TextLoader skeletonClassName="h-8 w-20">
+          <h2 className="text-2xl font-semibold">
+            {tk('toggle_heading')}
+          </h2>
+        </TextLoader>
+        <div className="flex flex-col gap-4 p-6 border border-border rounded-lg bg-background overflow-hidden">
+          {/* Default Toggle */}
+          <div className="flex flex-col gap-2">
+            <TextLoader skeletonClassName="h-5 w-24">
+              <span className="text-sm text-muted-foreground font-medium">
+                {tk('toggle_default_label')}
+              </span>
+            </TextLoader>
+            <div className="flex items-center gap-2">
+              <Toggle aria-label="Toggle italic"  size="sm">
+                <ItalicIcon />
+              </Toggle>
+              <Toggle aria-label="Toggle italic">
+                <ItalicIcon />
+              </Toggle>
+              <Toggle aria-label="Toggle italic" size="lg">
+                <ItalicIcon />
+              </Toggle>
+            </div>
+          </div>
+
+          {/* With Text Toggle */}
+          <div className="flex flex-col gap-2">
+            <TextLoader skeletonClassName="h-5 w-24">
+              <span className="text-sm text-muted-foreground font-medium">
+                {tk('toggle_with_text_label')}
+              </span>
+            </TextLoader>
+            <div className="flex items-center gap-2">
+              <Toggle aria-label="Toggle italic" size="sm">
+                <ItalicIcon />
+                <TextLoader skeletonClassName="h-4 w-10" inheritColor>
+                  {tk('toggle_italic')}
+                </TextLoader>
+              </Toggle>
+              <Toggle aria-label="Toggle italic">
+                <ItalicIcon />
+                <TextLoader skeletonClassName="h-4 w-10" inheritColor>
+                  {tk('toggle_italic')}
+                </TextLoader>
+              </Toggle>
+              <Toggle aria-label="Toggle italic" size="lg">
+                <ItalicIcon />
+                <TextLoader skeletonClassName="h-4 w-10" inheritColor>
+                  {tk('toggle_italic')}
+                </TextLoader>
+              </Toggle>
+            </div>
+          </div>
+
+          {/* Outline Toggle */}
+          <div className="flex flex-col gap-2">
+            <TextLoader skeletonClassName="h-5 w-28">
+              <span className="text-sm text-muted-foreground font-medium">
+                {tk('toggle_outline_label')}
+              </span>
+            </TextLoader>
+            <div className="flex items-center gap-2">
+              <Toggle
+                aria-label="Toggle bookmark"
+                size="sm"
+                variant="outline"
+                className="[&_svg]:data-[state=on]:fill-current"
+              >
+                <BookmarkIcon />
+                <TextLoader skeletonClassName="h-4 w-16" inheritColor>
+                  {tk('toggle_bookmark')}
+                </TextLoader>
+              </Toggle>
+              <Toggle
+                aria-label="Toggle bookmark"
+                variant="outline"
+                className="[&_svg]:data-[state=on]:fill-current"
+              >
+                <BookmarkIcon />
+                <TextLoader skeletonClassName="h-4 w-16" inheritColor>
+                  {tk('toggle_bookmark')}
+                </TextLoader>
+              </Toggle>
+              <Toggle
+                aria-label="Toggle bookmark"
+                size="lg"
+                variant="outline"
+                className="[&_svg]:data-[state=on]:fill-current"
+              >
+                <BookmarkIcon />
+                <TextLoader skeletonClassName="h-4 w-16" inheritColor>
+                  {tk('toggle_bookmark')}
+                </TextLoader>
+              </Toggle>
+            </div>
+          </div>
+
+          {/* Disabled Toggle */}
+          <div className="flex flex-col gap-2">
+            <TextLoader skeletonClassName="h-5 w-20">
+              <span className="text-sm text-muted-foreground font-medium">
+                {tk('toggle_disabled_label')}
+              </span>
+            </TextLoader>
+            <div className="flex items-center gap-2">
+              <Toggle aria-label="Toggle underline" variant="outline" size="sm" disabled>
+                <UnderlineIcon />
+              </Toggle>
+              <Toggle aria-label="Toggle underline" variant="outline" disabled>
+                <UnderlineIcon />
+              </Toggle>
+              <Toggle aria-label="Toggle underline" variant="outline" size="lg" disabled>
+                <UnderlineIcon />
+              </Toggle>
+            </div>
+          </div>
         </div>
       </div>
     </>

@@ -645,5 +645,12 @@
   "command_calculator": "Hesap makinesi",
   "command_profile": "Profil",
   "command_billing": "Faturalama",
-  "command_settings_item": "Ayarlar"
+  "command_settings_item": "Ayarlar",
+  "toggle_heading": "Değiştir",
+  "toggle_default_label": "Varsayılan",
+  "toggle_outline_label": "Ana hat",
+  "toggle_disabled_label": "Devre dışı",
+  "toggle_italic": "İtalik",
+  "toggle_bookmark": "Yer imi",
+  "toggle_with_text_label": "Metinli"
 }

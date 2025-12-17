@@ -645,5 +645,12 @@
   "command_calculator": "Lommeregner",
   "command_profile": "Profil",
   "command_billing": "Fakturering",
-  "command_settings_item": "Indstillinger"
+  "command_settings_item": "Indstillinger",
+  "toggle_heading": "Skift",
+  "toggle_default_label": "Standard",
+  "toggle_outline_label": "Kontur",
+  "toggle_disabled_label": "Deaktiveret",
+  "toggle_italic": "Kursiv",
+  "toggle_bookmark": "Bogmærke",
+  "toggle_with_text_label": "Med tekst"
 }

@@ -645,5 +645,12 @@
   "command_calculator": "Kalkulačka",
   "command_profile": "Profil",
   "command_billing": "Fakturace",
-  "command_settings_item": "Nastavení"
+  "command_settings_item": "Nastavení",
+  "toggle_heading": "Přepínač",
+  "toggle_default_label": "Výchozí",
+  "toggle_outline_label": "Obrys",
+  "toggle_disabled_label": "Zakázáno",
+  "toggle_italic": "Kurzíva",
+  "toggle_bookmark": "Záložka",
+  "toggle_with_text_label": "S textem"
 }

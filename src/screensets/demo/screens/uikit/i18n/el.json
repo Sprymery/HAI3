@@ -645,5 +645,12 @@
   "command_calculator": "Αριθμομηχανή",
   "command_profile": "Προφίλ",
   "command_billing": "Χρέωση",
-  "command_settings_item": "Ρυθμίσεις"
+  "command_settings_item": "Ρυθμίσεις",
+  "toggle_heading": "Εναλλαγή",
+  "toggle_default_label": "Προεπιλογή",
+  "toggle_outline_label": "Περίγραμμα",
+  "toggle_disabled_label": "Απενεργοποιημένο",
+  "toggle_italic": "Πλάγια",
+  "toggle_bookmark": "Σελιδοδείκτης",
+  "toggle_with_text_label": "Με κείμενο"
 }
