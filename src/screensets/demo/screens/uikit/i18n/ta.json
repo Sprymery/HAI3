@@ -633,5 +633,17 @@
   "button_group_input_label": "உள்ளீட்டு குழுவுடன்",
   "button_group_message_placeholder": "ஒரு செய்தி அனுப்பவும்...",
   "button_group_voice_placeholder": "ஆடியோ பதிவு செய்து அனுப்பவும்...",
-  "button_group_voice_mode": "குரல் பயன்முறை"
+  "button_group_voice_mode": "குரல் பயன்முறை",
+  "command_heading": "கட்டளை",
+  "command_press": "அழுத்தவும்",
+  "command_placeholder": "கட்டளை தட்டச்சு செய்யவும் அல்லது தேடவும்...",
+  "command_no_results": "முடிவுகள் இல்லை.",
+  "command_suggestions": "பரிந்துரைகள்",
+  "command_settings": "அமைப்புகள்",
+  "command_calendar": "நாள்காட்டி",
+  "command_search_emoji": "ஈமோஜி தேடு",
+  "command_calculator": "கால்குலேட்டர்",
+  "command_profile": "சுயவிவரம்",
+  "command_billing": "பில்லிங்",
+  "command_settings_item": "அமைப்புகள்"
 }

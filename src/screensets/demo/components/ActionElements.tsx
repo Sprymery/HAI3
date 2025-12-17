@@ -13,10 +13,30 @@ import {
   Tooltip,
   TooltipTrigger,
   TooltipContent,
+  CommandDialog,
+  CommandInput,
+  CommandList,
+  CommandEmpty,
+  CommandGroup,
+  CommandItem,
+  CommandSeparator,
+  CommandShortcut,
 } from '@hai3/uikit';
 import { useTranslation, TextLoader } from '@hai3/uicore';
 import { StarIcon } from '../uikit/icons/StarIcon';
-import { PlusIcon, MinusIcon, ArrowLeftIcon, ArrowRightIcon, AudioLinesIcon } from 'lucide-react';
+import {
+  PlusIcon,
+  MinusIcon,
+  ArrowLeftIcon,
+  ArrowRightIcon,
+  AudioLinesIcon,
+  CalendarIcon,
+  SmileIcon,
+  CalculatorIcon,
+  UserIcon,
+  CreditCardIcon,
+  SettingsIcon,
+} from 'lucide-react';
 import { DEMO_SCREENSET_ID } from "../ids";
 import { UI_KIT_ELEMENTS_SCREEN_ID } from "../ids";
 
@@ -28,9 +48,22 @@ import { UI_KIT_ELEMENTS_SCREEN_ID } from "../ids";
 export const ActionElements: React.FC = () => {
   const { t } = useTranslation();
   const [voiceEnabled, setVoiceEnabled] = React.useState(false);
+  const [commandOpen, setCommandOpen] = React.useState(false);
 
   // Helper function to access parent screen's translations
   const tk = (key: string) => t(`screen.${DEMO_SCREENSET_ID}.${UI_KIT_ELEMENTS_SCREEN_ID}:${key}`);
+
+  // Keyboard shortcut for command palette
+  React.useEffect(() => {
+    const down = (e: KeyboardEvent) => {
+      if (e.key === 'j' && (e.metaKey || e.ctrlKey)) {
+        e.preventDefault();
+        setCommandOpen((open) => !open);
+      }
+    };
+    document.addEventListener('keydown', down);
+    return () => document.removeEventListener('keydown', down);
+  }, []);
 
   return (
     <>
@@ -291,6 +324,61 @@ export const ActionElements: React.FC = () => {
               </ButtonGroup>
             </ButtonGroup>
           </div>
+        </div>
+      </div>
+
+      {/* Command Element Block */}
+      <div data-element-id="element-command" className="flex flex-col gap-4">
+        <TextLoader skeletonClassName="h-8 w-28">
+          <h2 className="text-2xl font-semibold">
+            {tk('command_heading')}
+          </h2>
+        </TextLoader>
+        <div className="flex flex-col gap-4 p-6 border border-border rounded-lg bg-background overflow-hidden">
+          <p className="text-muted-foreground text-sm">
+            {tk('command_press')}{' '}
+            <kbd className="bg-muted text-muted-foreground pointer-events-none inline-flex h-5 items-center gap-1 rounded border px-1.5 font-mono text-[10px] font-medium opacity-100 select-none">
+              <span className="text-xs">⌘</span>J
+            </kbd>
+          </p>
+          <CommandDialog open={commandOpen} onOpenChange={setCommandOpen}>
+            <CommandInput placeholder={tk('command_placeholder')} />
+            <CommandList>
+              <CommandEmpty>{tk('command_no_results')}</CommandEmpty>
+              <CommandGroup heading={tk('command_suggestions')}>
+                <CommandItem>
+                  <CalendarIcon />
+                  <span>{tk('command_calendar')}</span>
+                </CommandItem>
+                <CommandItem>
+                  <SmileIcon />
+                  <span>{tk('command_search_emoji')}</span>
+                </CommandItem>
+                <CommandItem>
+                  <CalculatorIcon />
+                  <span>{tk('command_calculator')}</span>
+                </CommandItem>
+              </CommandGroup>
+              <CommandSeparator />
+              <CommandGroup heading={tk('command_settings')}>
+                <CommandItem>
+                  <UserIcon />
+                  <span>{tk('command_profile')}</span>
+                  <CommandShortcut>⌘P</CommandShortcut>
+                </CommandItem>
+                <CommandItem>
+                  <CreditCardIcon />
+                  <span>{tk('command_billing')}</span>
+                  <CommandShortcut>⌘B</CommandShortcut>
+                </CommandItem>
+                <CommandItem>
+                  <SettingsIcon />
+                  <span>{tk('command_settings_item')}</span>
+                  <CommandShortcut>⌘S</CommandShortcut>
+                </CommandItem>
+              </CommandGroup>
+            </CommandList>
+          </CommandDialog>
         </div>
       </div>
     </>

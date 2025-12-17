@@ -633,5 +633,17 @@
   "button_group_input_label": "Med inndatagruppe",
   "button_group_message_placeholder": "Send en melding...",
   "button_group_voice_placeholder": "Ta opp og send lyd...",
-  "button_group_voice_mode": "Stemmemodus"
+  "button_group_voice_mode": "Stemmemodus",
+  "command_heading": "Kommando",
+  "command_press": "Trykk",
+  "command_placeholder": "Skriv en kommando eller søk...",
+  "command_no_results": "Ingen resultater funnet.",
+  "command_suggestions": "Forslag",
+  "command_settings": "Innstillinger",
+  "command_calendar": "Kalender",
+  "command_search_emoji": "Søk emoji",
+  "command_calculator": "Kalkulator",
+  "command_profile": "Profil",
+  "command_billing": "Fakturering",
+  "command_settings_item": "Innstillinger"
 }

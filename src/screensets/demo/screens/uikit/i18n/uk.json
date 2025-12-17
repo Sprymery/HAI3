@@ -633,5 +633,17 @@
   "button_group_input_label": "З групою введення",
   "button_group_message_placeholder": "Надіслати повідомлення...",
   "button_group_voice_placeholder": "Записати та надіслати аудіо...",
-  "button_group_voice_mode": "Голосовий режим"
+  "button_group_voice_mode": "Голосовий режим",
+  "command_heading": "Команда",
+  "command_press": "Натисніть",
+  "command_placeholder": "Введіть команду або шукайте...",
+  "command_no_results": "Результатів не знайдено.",
+  "command_suggestions": "Пропозиції",
+  "command_settings": "Налаштування",
+  "command_calendar": "Календар",
+  "command_search_emoji": "Пошук емодзі",
+  "command_calculator": "Калькулятор",
+  "command_profile": "Профіль",
+  "command_billing": "Рахунки",
+  "command_settings_item": "Налаштування"
 }

@@ -633,5 +633,17 @@
   "button_group_input_label": "Se skupinou vstupů",
   "button_group_message_placeholder": "Odeslat zprávu...",
   "button_group_voice_placeholder": "Nahrajte a odešlete zvuk...",
-  "button_group_voice_mode": "Hlasový režim"
+  "button_group_voice_mode": "Hlasový režim",
+  "command_heading": "Příkaz",
+  "command_press": "Stiskněte",
+  "command_placeholder": "Zadejte příkaz nebo hledejte...",
+  "command_no_results": "Žádné výsledky.",
+  "command_suggestions": "Návrhy",
+  "command_settings": "Nastavení",
+  "command_calendar": "Kalendář",
+  "command_search_emoji": "Hledat emoji",
+  "command_calculator": "Kalkulačka",
+  "command_profile": "Profil",
+  "command_billing": "Fakturace",
+  "command_settings_item": "Nastavení"
 }

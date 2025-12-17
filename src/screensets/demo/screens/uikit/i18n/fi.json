@@ -633,5 +633,17 @@
   "button_group_input_label": "Syöttöryhmällä",
   "button_group_message_placeholder": "Lähetä viesti...",
   "button_group_voice_placeholder": "Nauhoita ja lähetä ääni...",
-  "button_group_voice_mode": "Äänitila"
+  "button_group_voice_mode": "Äänitila",
+  "command_heading": "Komento",
+  "command_press": "Paina",
+  "command_placeholder": "Kirjoita komento tai hae...",
+  "command_no_results": "Ei tuloksia.",
+  "command_suggestions": "Ehdotukset",
+  "command_settings": "Asetukset",
+  "command_calendar": "Kalenteri",
+  "command_search_emoji": "Hae emoji",
+  "command_calculator": "Laskin",
+  "command_profile": "Profiili",
+  "command_billing": "Laskutus",
+  "command_settings_item": "Asetukset"
 }

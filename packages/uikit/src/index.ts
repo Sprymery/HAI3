@@ -402,6 +402,19 @@ export {
   ContextMenuRadioGroup,
 } from './base/context-menu';
 
+// Command palette (cmdk)
+export {
+  Command,
+  CommandDialog,
+  CommandInput,
+  CommandList,
+  CommandEmpty,
+  CommandGroup,
+  CommandItem,
+  CommandShortcut,
+  CommandSeparator,
+} from './base/command';
+
 // Composite components
 export { IconButton, type IconButtonProps } from './composite/buttons/IconButton';
 export { DropdownButton, type DropdownButtonProps } from './composite/buttons/DropdownButton';

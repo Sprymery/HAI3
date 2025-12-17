@@ -633,5 +633,17 @@
   "button_group_input_label": "עם קבוצת קלט",
   "button_group_message_placeholder": "שלח הודעה...",
   "button_group_voice_placeholder": "הקלט ושלח אודיו...",
-  "button_group_voice_mode": "מצב קול"
+  "button_group_voice_mode": "מצב קול",
+  "command_heading": "פקודה",
+  "command_press": "לחץ",
+  "command_placeholder": "הקלד פקודה או חפש...",
+  "command_no_results": "לא נמצאו תוצאות.",
+  "command_suggestions": "הצעות",
+  "command_settings": "הגדרות",
+  "command_calendar": "לוח שנה",
+  "command_search_emoji": "חפש אימוג'י",
+  "command_calculator": "מחשבון",
+  "command_profile": "פרופיל",
+  "command_billing": "חיוב",
+  "command_settings_item": "הגדרות"
 }

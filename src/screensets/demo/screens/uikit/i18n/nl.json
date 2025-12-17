@@ -633,5 +633,17 @@
   "button_group_input_label": "Met invoergroep",
   "button_group_message_placeholder": "Stuur een bericht...",
   "button_group_voice_placeholder": "Neem audio op en verstuur...",
-  "button_group_voice_mode": "Spraakstand"
+  "button_group_voice_mode": "Spraakstand",
+  "command_heading": "Opdracht",
+  "command_press": "Druk op",
+  "command_placeholder": "Typ een opdracht of zoek...",
+  "command_no_results": "Geen resultaten gevonden.",
+  "command_suggestions": "Suggesties",
+  "command_settings": "Instellingen",
+  "command_calendar": "Agenda",
+  "command_search_emoji": "Zoek emoji",
+  "command_calculator": "Rekenmachine",
+  "command_profile": "Profiel",
+  "command_billing": "Facturering",
+  "command_settings_item": "Instellingen"
 }

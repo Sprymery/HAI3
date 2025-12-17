@@ -633,5 +633,17 @@
   "button_group_input_label": "इनपुट समूह के साथ",
   "button_group_message_placeholder": "एक संदेश भेजें...",
   "button_group_voice_placeholder": "ऑडियो रिकॉर्ड करें और भेजें...",
-  "button_group_voice_mode": "वॉयस मोड"
+  "button_group_voice_mode": "वॉयस मोड",
+  "command_heading": "कमांड",
+  "command_press": "दबाएं",
+  "command_placeholder": "कमांड टाइप करें या खोजें...",
+  "command_no_results": "कोई परिणाम नहीं मिला।",
+  "command_suggestions": "सुझाव",
+  "command_settings": "सेटिंग्स",
+  "command_calendar": "कैलेंडर",
+  "command_search_emoji": "इमोजी खोजें",
+  "command_calculator": "कैलकुलेटर",
+  "command_profile": "प्रोफ़ाइल",
+  "command_billing": "बिलिंग",
+  "command_settings_item": "सेटिंग्स"
 }

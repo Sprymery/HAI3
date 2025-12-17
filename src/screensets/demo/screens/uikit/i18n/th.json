@@ -633,5 +633,17 @@
   "button_group_input_label": "พร้อมกลุ่มอินพุต",
   "button_group_message_placeholder": "ส่งข้อความ...",
   "button_group_voice_placeholder": "บันทึกและส่งเสียง...",
-  "button_group_voice_mode": "โหมดเสียง"
+  "button_group_voice_mode": "โหมดเสียง",
+  "command_heading": "คำสั่ง",
+  "command_press": "กด",
+  "command_placeholder": "พิมพ์คำสั่งหรือค้นหา...",
+  "command_no_results": "ไม่พบผลลัพธ์",
+  "command_suggestions": "คำแนะนำ",
+  "command_settings": "การตั้งค่า",
+  "command_calendar": "ปฏิทิน",
+  "command_search_emoji": "ค้นหาอิโมจิ",
+  "command_calculator": "เครื่องคิดเลข",
+  "command_profile": "โปรไฟล์",
+  "command_billing": "การเรียกเก็บเงิน",
+  "command_settings_item": "การตั้งค่า"
 }

@@ -633,5 +633,17 @@
   "button_group_input_label": "با گروه ورودی",
   "button_group_message_placeholder": "یک پیام بفرستید...",
   "button_group_voice_placeholder": "صدا ضبط و ارسال کنید...",
-  "button_group_voice_mode": "حالت صوتی"
+  "button_group_voice_mode": "حالت صوتی",
+  "command_heading": "فرمان",
+  "command_press": "فشار دهید",
+  "command_placeholder": "یک فرمان تایپ کنید یا جستجو کنید...",
+  "command_no_results": "نتیجه‌ای یافت نشد.",
+  "command_suggestions": "پیشنهادات",
+  "command_settings": "تنظیمات",
+  "command_calendar": "تقویم",
+  "command_search_emoji": "جستجوی اموجی",
+  "command_calculator": "ماشین حساب",
+  "command_profile": "نمایه",
+  "command_billing": "صورتحساب",
+  "command_settings_item": "تنظیمات"
 }

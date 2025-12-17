@@ -633,5 +633,17 @@
   "button_group_input_label": "Cu grup de intrare",
   "button_group_message_placeholder": "Trimite un mesaj...",
   "button_group_voice_placeholder": "Înregistrați și trimiteți audio...",
-  "button_group_voice_mode": "Mod vocal"
+  "button_group_voice_mode": "Mod vocal",
+  "command_heading": "Comandă",
+  "command_press": "Apăsați",
+  "command_placeholder": "Tastați o comandă sau căutați...",
+  "command_no_results": "Nu s-au găsit rezultate.",
+  "command_suggestions": "Sugestii",
+  "command_settings": "Setări",
+  "command_calendar": "Calendar",
+  "command_search_emoji": "Căutați emoji",
+  "command_calculator": "Calculator",
+  "command_profile": "Profil",
+  "command_billing": "Facturare",
+  "command_settings_item": "Setări"
 }

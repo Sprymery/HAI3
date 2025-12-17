@@ -179,6 +179,7 @@ export const IMPLEMENTED_ELEMENTS = [
   'Checkbox',
   'Chart',
   'Collapsible',
+  'Command',
   'Context Menu',
   'Data Table',
   'Date Picker',

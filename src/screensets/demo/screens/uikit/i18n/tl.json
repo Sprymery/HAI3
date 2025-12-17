@@ -633,5 +633,17 @@
   "button_group_input_label": "May input group",
   "button_group_message_placeholder": "Magpadala ng mensahe...",
   "button_group_voice_placeholder": "Mag-record at magpadala ng audio...",
-  "button_group_voice_mode": "Voice Mode"
+  "button_group_voice_mode": "Voice Mode",
+  "command_heading": "Command",
+  "command_press": "Pindutin",
+  "command_placeholder": "Mag-type ng command o maghanap...",
+  "command_no_results": "Walang nakitang resulta.",
+  "command_suggestions": "Mga Suhestiyon",
+  "command_settings": "Mga Setting",
+  "command_calendar": "Kalendaryo",
+  "command_search_emoji": "Maghanap ng emoji",
+  "command_calculator": "Calculator",
+  "command_profile": "Profile",
+  "command_billing": "Pagsingil",
+  "command_settings_item": "Mga Setting"
 }

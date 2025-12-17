@@ -633,5 +633,17 @@
   "button_group_input_label": "With Input Group",
   "button_group_message_placeholder": "Send a message...",
   "button_group_voice_placeholder": "Record and send audio...",
-  "button_group_voice_mode": "Voice Mode"
+  "button_group_voice_mode": "Voice Mode",
+  "command_heading": "Command",
+  "command_press": "Press",
+  "command_placeholder": "Type a command or search...",
+  "command_no_results": "No results found.",
+  "command_suggestions": "Suggestions",
+  "command_settings": "Settings",
+  "command_calendar": "Calendar",
+  "command_search_emoji": "Search Emoji",
+  "command_calculator": "Calculator",
+  "command_profile": "Profile",
+  "command_billing": "Billing",
+  "command_settings_item": "Settings"
 }

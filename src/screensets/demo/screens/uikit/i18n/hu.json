@@ -633,5 +633,17 @@
   "button_group_input_label": "Beviteli csoporttal",
   "button_group_message_placeholder": "Üzenet küldése...",
   "button_group_voice_placeholder": "Hang rögzítése és küldése...",
-  "button_group_voice_mode": "Hangmód"
+  "button_group_voice_mode": "Hangmód",
+  "command_heading": "Parancs",
+  "command_press": "Nyomja meg",
+  "command_placeholder": "Írjon be parancsot vagy keressen...",
+  "command_no_results": "Nincs találat.",
+  "command_suggestions": "Javaslatok",
+  "command_settings": "Beállítások",
+  "command_calendar": "Naptár",
+  "command_search_emoji": "Emoji keresés",
+  "command_calculator": "Számológép",
+  "command_profile": "Profil",
+  "command_billing": "Számlázás",
+  "command_settings_item": "Beállítások"
 }

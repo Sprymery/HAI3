@@ -629,5 +629,17 @@
   "button_group_input_label": "مع مجموعة الإدخال",
   "button_group_message_placeholder": "أرسل رسالة...",
   "button_group_voice_placeholder": "سجل وأرسل صوتًا...",
-  "button_group_voice_mode": "وضع الصوت"
+  "button_group_voice_mode": "وضع الصوت",
+  "command_heading": "الأوامر",
+  "command_press": "اضغط",
+  "command_placeholder": "اكتب أمرًا أو ابحث...",
+  "command_no_results": "لم يتم العثور على نتائج.",
+  "command_suggestions": "اقتراحات",
+  "command_settings": "الإعدادات",
+  "command_calendar": "التقويم",
+  "command_search_emoji": "بحث الرموز التعبيرية",
+  "command_calculator": "الآلة الحاسبة",
+  "command_profile": "الملف الشخصي",
+  "command_billing": "الفوترة",
+  "command_settings_item": "الإعدادات"
 }

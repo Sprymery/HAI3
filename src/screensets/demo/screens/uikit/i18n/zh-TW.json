@@ -633,5 +633,17 @@
   "button_group_input_label": "帶輸入組",
   "button_group_message_placeholder": "發送訊息...",
   "button_group_voice_placeholder": "錄製並發送音訊...",
-  "button_group_voice_mode": "語音模式"
+  "button_group_voice_mode": "語音模式",
+  "command_heading": "命令",
+  "command_press": "按下",
+  "command_placeholder": "輸入命令或搜尋...",
+  "command_no_results": "未找到結果。",
+  "command_suggestions": "建議",
+  "command_settings": "設定",
+  "command_calendar": "日曆",
+  "command_search_emoji": "搜尋表情",
+  "command_calculator": "計算機",
+  "command_profile": "個人資料",
+  "command_billing": "帳單",
+  "command_settings_item": "設定"
 }

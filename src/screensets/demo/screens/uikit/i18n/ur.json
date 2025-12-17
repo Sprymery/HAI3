@@ -633,5 +633,17 @@
   "button_group_input_label": "ان پٹ گروپ کے ساتھ",
   "button_group_message_placeholder": "ایک پیغام بھیجیں...",
   "button_group_voice_placeholder": "آڈیو ریکارڈ اور بھیجیں...",
-  "button_group_voice_mode": "وائس موڈ"
+  "button_group_voice_mode": "وائس موڈ",
+  "command_heading": "کمانڈ",
+  "command_press": "دبائیں",
+  "command_placeholder": "کمانڈ ٹائپ کریں یا تلاش کریں...",
+  "command_no_results": "کوئی نتائج نہیں ملے۔",
+  "command_suggestions": "تجاویز",
+  "command_settings": "ترتیبات",
+  "command_calendar": "کیلنڈر",
+  "command_search_emoji": "ایموجی تلاش کریں",
+  "command_calculator": "کیلکولیٹر",
+  "command_profile": "پروفائل",
+  "command_billing": "بلنگ",
+  "command_settings_item": "ترتیبات"
 }

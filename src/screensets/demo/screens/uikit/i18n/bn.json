@@ -633,5 +633,17 @@
   "button_group_input_label": "ইনপুট গ্রুপ সহ",
   "button_group_message_placeholder": "একটি বার্তা পাঠান...",
   "button_group_voice_placeholder": "অডিও রেকর্ড করুন এবং পাঠান...",
-  "button_group_voice_mode": "ভয়েস মোড"
+  "button_group_voice_mode": "ভয়েস মোড",
+  "command_heading": "কমান্ড",
+  "command_press": "চাপুন",
+  "command_placeholder": "একটি কমান্ড টাইপ করুন বা অনুসন্ধান করুন...",
+  "command_no_results": "কোন ফলাফল পাওয়া যায়নি।",
+  "command_suggestions": "পরামর্শ",
+  "command_settings": "সেটিংস",
+  "command_calendar": "ক্যালেন্ডার",
+  "command_search_emoji": "ইমোজি অনুসন্ধান",
+  "command_calculator": "ক্যালকুলেটর",
+  "command_profile": "প্রোফাইল",
+  "command_billing": "বিলিং",
+  "command_settings_item": "সেটিংস"
 }

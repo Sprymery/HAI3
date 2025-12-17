@@ -633,5 +633,17 @@
   "button_group_input_label": "Med inmatningsgrupp",
   "button_group_message_placeholder": "Skicka ett meddelande...",
   "button_group_voice_placeholder": "Spela in och skicka ljud...",
-  "button_group_voice_mode": "Röstläge"
+  "button_group_voice_mode": "Röstläge",
+  "command_heading": "Kommando",
+  "command_press": "Tryck",
+  "command_placeholder": "Skriv ett kommando eller sök...",
+  "command_no_results": "Inga resultat hittades.",
+  "command_suggestions": "Förslag",
+  "command_settings": "Inställningar",
+  "command_calendar": "Kalender",
+  "command_search_emoji": "Sök emoji",
+  "command_calculator": "Kalkylator",
+  "command_profile": "Profil",
+  "command_billing": "Fakturering",
+  "command_settings_item": "Inställningar"
 }

@@ -633,5 +633,17 @@
   "button_group_input_label": "Med inputgruppe",
   "button_group_message_placeholder": "Send en besked...",
   "button_group_voice_placeholder": "Optag og send lyd...",
-  "button_group_voice_mode": "Stemmetilstand"
+  "button_group_voice_mode": "Stemmetilstand",
+  "command_heading": "Kommando",
+  "command_press": "Tryk",
+  "command_placeholder": "Skriv en kommando eller søg...",
+  "command_no_results": "Ingen resultater fundet.",
+  "command_suggestions": "Forslag",
+  "command_settings": "Indstillinger",
+  "command_calendar": "Kalender",
+  "command_search_emoji": "Søg emoji",
+  "command_calculator": "Lommeregner",
+  "command_profile": "Profil",
+  "command_billing": "Fakturering",
+  "command_settings_item": "Indstillinger"
 }

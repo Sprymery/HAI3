@@ -633,5 +633,17 @@
   "button_group_input_label": "입력 그룹과 함께",
   "button_group_message_placeholder": "메시지 보내기...",
   "button_group_voice_placeholder": "오디오 녹음 및 전송...",
-  "button_group_voice_mode": "음성 모드"
+  "button_group_voice_mode": "음성 모드",
+  "command_heading": "명령",
+  "command_press": "누르기",
+  "command_placeholder": "명령어를 입력하거나 검색...",
+  "command_no_results": "결과를 찾을 수 없습니다.",
+  "command_suggestions": "제안",
+  "command_settings": "설정",
+  "command_calendar": "캘린더",
+  "command_search_emoji": "이모지 검색",
+  "command_calculator": "계산기",
+  "command_profile": "프로필",
+  "command_billing": "청구",
+  "command_settings_item": "설정"
 }

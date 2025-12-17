@@ -633,5 +633,17 @@
   "button_group_input_label": "С группой ввода",
   "button_group_message_placeholder": "Отправить сообщение...",
   "button_group_voice_placeholder": "Записать и отправить аудио...",
-  "button_group_voice_mode": "Голосовой режим"
+  "button_group_voice_mode": "Голосовой режим",
+  "command_heading": "Команда",
+  "command_press": "Нажмите",
+  "command_placeholder": "Введите команду или поиск...",
+  "command_no_results": "Результатов не найдено.",
+  "command_suggestions": "Предложения",
+  "command_settings": "Настройки",
+  "command_calendar": "Календарь",
+  "command_search_emoji": "Поиск эмодзи",
+  "command_calculator": "Калькулятор",
+  "command_profile": "Профиль",
+  "command_billing": "Оплата",
+  "command_settings_item": "Настройки"
 }

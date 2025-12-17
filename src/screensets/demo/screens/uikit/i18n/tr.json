@@ -633,5 +633,17 @@
   "button_group_input_label": "Giriş grubu ile",
   "button_group_message_placeholder": "Bir mesaj gönderin...",
   "button_group_voice_placeholder": "Ses kaydedin ve gönderin...",
-  "button_group_voice_mode": "Ses modu"
+  "button_group_voice_mode": "Ses modu",
+  "command_heading": "Komut",
+  "command_press": "Basın",
+  "command_placeholder": "Komut yazın veya arayın...",
+  "command_no_results": "Sonuç bulunamadı.",
+  "command_suggestions": "Öneriler",
+  "command_settings": "Ayarlar",
+  "command_calendar": "Takvim",
+  "command_search_emoji": "Emoji ara",
+  "command_calculator": "Hesap makinesi",
+  "command_profile": "Profil",
+  "command_billing": "Faturalama",
+  "command_settings_item": "Ayarlar"
 }

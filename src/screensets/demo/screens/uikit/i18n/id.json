@@ -633,5 +633,17 @@
   "button_group_input_label": "Dengan grup input",
   "button_group_message_placeholder": "Kirim pesan...",
   "button_group_voice_placeholder": "Rekam dan kirim audio...",
-  "button_group_voice_mode": "Mode suara"
+  "button_group_voice_mode": "Mode suara",
+  "command_heading": "Perintah",
+  "command_press": "Tekan",
+  "command_placeholder": "Ketik perintah atau cari...",
+  "command_no_results": "Tidak ada hasil.",
+  "command_suggestions": "Saran",
+  "command_settings": "Pengaturan",
+  "command_calendar": "Kalender",
+  "command_search_emoji": "Cari emoji",
+  "command_calculator": "Kalkulator",
+  "command_profile": "Profil",
+  "command_billing": "Penagihan",
+  "command_settings_item": "Pengaturan"
 }

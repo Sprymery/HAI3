@@ -633,5 +633,17 @@
   "button_group_input_label": "Με ομάδα εισόδου",
   "button_group_message_placeholder": "Στείλτε ένα μήνυμα...",
   "button_group_voice_placeholder": "Ηχογραφήστε και στείλτε ήχο...",
-  "button_group_voice_mode": "Λειτουργία φωνής"
+  "button_group_voice_mode": "Λειτουργία φωνής",
+  "command_heading": "Εντολή",
+  "command_press": "Πατήστε",
+  "command_placeholder": "Πληκτρολογήστε μια εντολή ή αναζητήστε...",
+  "command_no_results": "Δεν βρέθηκαν αποτελέσματα.",
+  "command_suggestions": "Προτάσεις",
+  "command_settings": "Ρυθμίσεις",
+  "command_calendar": "Ημερολόγιο",
+  "command_search_emoji": "Αναζήτηση emoji",
+  "command_calculator": "Αριθμομηχανή",
+  "command_profile": "Προφίλ",
+  "command_billing": "Χρέωση",
+  "command_settings_item": "Ρυθμίσεις"
 }

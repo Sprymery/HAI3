@@ -633,5 +633,17 @@
   "button_group_input_label": "Na kikundi cha kuingiza",
   "button_group_message_placeholder": "Tuma ujumbe...",
   "button_group_voice_placeholder": "Rekodi na tuma sauti...",
-  "button_group_voice_mode": "Hali ya sauti"
+  "button_group_voice_mode": "Hali ya sauti",
+  "command_heading": "Amri",
+  "command_press": "Bonyeza",
+  "command_placeholder": "Andika amri au tafuta...",
+  "command_no_results": "Hakuna matokeo yaliyopatikana.",
+  "command_suggestions": "Mapendekezo",
+  "command_settings": "Mipangilio",
+  "command_calendar": "Kalenda",
+  "command_search_emoji": "Tafuta emoji",
+  "command_calculator": "Kikokotoo",
+  "command_profile": "Wasifu",
+  "command_billing": "Utozaji",
+  "command_settings_item": "Mipangilio"
 }

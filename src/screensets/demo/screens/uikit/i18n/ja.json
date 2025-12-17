@@ -633,5 +633,17 @@
   "button_group_input_label": "入力グループ付き",
   "button_group_message_placeholder": "メッセージを送信...",
   "button_group_voice_placeholder": "音声を録音して送信...",
-  "button_group_voice_mode": "音声モード"
+  "button_group_voice_mode": "音声モード",
+  "command_heading": "コマンド",
+  "command_press": "押す",
+  "command_placeholder": "コマンドを入力または検索...",
+  "command_no_results": "結果が見つかりません。",
+  "command_suggestions": "提案",
+  "command_settings": "設定",
+  "command_calendar": "カレンダー",
+  "command_search_emoji": "絵文字を検索",
+  "command_calculator": "電卓",
+  "command_profile": "プロフィール",
+  "command_billing": "請求",
+  "command_settings_item": "設定"
 }

@@ -633,5 +633,17 @@
   "button_group_input_label": "Với nhóm nhập liệu",
   "button_group_message_placeholder": "Gửi tin nhắn...",
   "button_group_voice_placeholder": "Ghi và gửi âm thanh...",
-  "button_group_voice_mode": "Chế độ giọng nói"
+  "button_group_voice_mode": "Chế độ giọng nói",
+  "command_heading": "Lệnh",
+  "command_press": "Nhấn",
+  "command_placeholder": "Nhập lệnh hoặc tìm kiếm...",
+  "command_no_results": "Không tìm thấy kết quả.",
+  "command_suggestions": "Gợi ý",
+  "command_settings": "Cài đặt",
+  "command_calendar": "Lịch",
+  "command_search_emoji": "Tìm emoji",
+  "command_calculator": "Máy tính",
+  "command_profile": "Hồ sơ",
+  "command_billing": "Thanh toán",
+  "command_settings_item": "Cài đặt"
 }
