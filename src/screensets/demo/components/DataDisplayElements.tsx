@@ -51,6 +51,17 @@ import {
   InputGroup,
   InputGroupInput,
   InputGroupAddon,
+  TypographyH1,
+  TypographyH2,
+  TypographyH3,
+  TypographyH4,
+  TypographyP,
+  TypographyBlockquote,
+  TypographyList,
+  TypographyInlineCode,
+  TypographyLarge,
+  TypographySmall,
+  TypographyMuted,
 } from '@hai3/uikit';
 import { useTranslation, TextLoader } from '@hai3/uicore';
 import { BadgeCheckIcon, SearchIcon } from 'lucide-react';
@@ -715,6 +726,133 @@ export const DataDisplayElements: React.FC = () => {
         </TextLoader>
         <div className="flex flex-col gap-6 p-6 border border-border rounded-lg bg-background">
           <PaymentsDataTable tk={tk} />
+        </div>
+      </div>
+
+      {/* Typography Element Block */}
+      <div data-element-id="element-typography" className="flex flex-col gap-4">
+        <TextLoader skeletonClassName="h-8 w-32">
+          <h2 className="text-2xl font-semibold">
+            {tk('typography_heading')}
+          </h2>
+        </TextLoader>
+        <div className="flex flex-col gap-6 p-6 border border-border rounded-lg bg-background">
+          {/* Headings */}
+          <div className="flex flex-col gap-2">
+            <TextLoader skeletonClassName="h-4 w-32" inheritColor>
+              <label className="text-xs text-muted-foreground">
+                {tk('typography_headings_label')}
+              </label>
+            </TextLoader>
+            <div className="flex flex-col gap-4">
+              <TypographyH1>
+                <TextLoader skeletonClassName="h-10 w-64" inheritColor>
+                  {tk('typography_h1_text')}
+                </TextLoader>
+              </TypographyH1>
+              <TypographyH2>
+                <TextLoader skeletonClassName="h-8 w-48" inheritColor>
+                  {tk('typography_h2_text')}
+                </TextLoader>
+              </TypographyH2>
+              <TypographyH3>
+                <TextLoader skeletonClassName="h-7 w-40" inheritColor>
+                  {tk('typography_h3_text')}
+                </TextLoader>
+              </TypographyH3>
+              <TypographyH4>
+                <TextLoader skeletonClassName="h-6 w-36" inheritColor>
+                  {tk('typography_h4_text')}
+                </TextLoader>
+              </TypographyH4>
+            </div>
+          </div>
+
+          {/* Body Text */}
+          <div className="flex flex-col gap-2">
+            <TextLoader skeletonClassName="h-4 w-32" inheritColor>
+              <label className="text-xs text-muted-foreground">
+                {tk('typography_body_label')}
+              </label>
+            </TextLoader>
+            <div className="flex flex-col gap-4">
+              <TypographyP>
+                <TextLoader skeletonClassName="h-5 w-full" inheritColor>
+                  {tk('typography_p_text')}
+                </TextLoader>
+              </TypographyP>
+              <TypographyLarge>
+                <TextLoader skeletonClassName="h-6 w-48" inheritColor>
+                  {tk('typography_large_text')}
+                </TextLoader>
+              </TypographyLarge>
+              <TypographySmall>
+                <TextLoader skeletonClassName="h-4 w-32" inheritColor>
+                  {tk('typography_small_text')}
+                </TextLoader>
+              </TypographySmall>
+              <TypographyMuted>
+                <TextLoader skeletonClassName="h-4 w-48" inheritColor>
+                  {tk('typography_muted_text')}
+                </TextLoader>
+              </TypographyMuted>
+            </div>
+          </div>
+
+          {/* Blockquote */}
+          <div className="flex flex-col gap-2">
+            <TextLoader skeletonClassName="h-4 w-32" inheritColor>
+              <label className="text-xs text-muted-foreground">
+                {tk('typography_blockquote_label')}
+              </label>
+            </TextLoader>
+            <TypographyBlockquote>
+              <TextLoader skeletonClassName="h-5 w-full" inheritColor>
+                {tk('typography_blockquote_text')}
+              </TextLoader>
+            </TypographyBlockquote>
+          </div>
+
+          {/* List */}
+          <div className="flex flex-col gap-2">
+            <TextLoader skeletonClassName="h-4 w-32" inheritColor>
+              <label className="text-xs text-muted-foreground">
+                {tk('typography_list_label')}
+              </label>
+            </TextLoader>
+            <TypographyList>
+              <li>
+                <TextLoader skeletonClassName="h-5 w-48" inheritColor>
+                  {tk('typography_list_item_1')}
+                </TextLoader>
+              </li>
+              <li>
+                <TextLoader skeletonClassName="h-5 w-52" inheritColor>
+                  {tk('typography_list_item_2')}
+                </TextLoader>
+              </li>
+              <li>
+                <TextLoader skeletonClassName="h-5 w-56" inheritColor>
+                  {tk('typography_list_item_3')}
+                </TextLoader>
+              </li>
+            </TypographyList>
+          </div>
+
+          {/* Inline Code */}
+          <div className="flex flex-col gap-2">
+            <TextLoader skeletonClassName="h-4 w-32" inheritColor>
+              <label className="text-xs text-muted-foreground">
+                {tk('typography_code_label')}
+              </label>
+            </TextLoader>
+            <TypographyP>
+              <TextLoader skeletonClassName="h-5 w-64" inheritColor>
+                {tk('typography_code_text')}{' '}
+                <TypographyInlineCode>npm install @hai3/uikit</TypographyInlineCode>
+              </TextLoader>
+            </TypographyP>
+          </div>
         </div>
       </div>
 

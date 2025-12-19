@@ -422,6 +422,21 @@ export { ToggleGroup, ToggleGroupItem } from './base/toggle-group';
 // Kbd
 export { Kbd, KbdGroup } from './base/kbd';
 
+// Typography
+export {
+  TypographyH1,
+  TypographyH2,
+  TypographyH3,
+  TypographyH4,
+  TypographyP,
+  TypographyBlockquote,
+  TypographyList,
+  TypographyInlineCode,
+  TypographyLarge,
+  TypographySmall,
+  TypographyMuted,
+} from './base/typography';
+
 // Composite components
 export { IconButton, type IconButtonProps } from './composite/buttons/IconButton';
 export { DropdownButton, type DropdownButtonProps } from './composite/buttons/DropdownButton';

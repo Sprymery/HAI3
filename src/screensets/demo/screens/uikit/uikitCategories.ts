@@ -219,4 +219,5 @@ export const IMPLEMENTED_ELEMENTS = [
   'Toggle',
   'Toggle Group',
   'Tooltip',
+  'Typography',
 ];
